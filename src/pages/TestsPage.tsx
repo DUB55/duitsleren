@@ -213,14 +213,14 @@ const TestsPage: React.FC = () => {
                 <Clock className="w-5 h-5 text-sky-300" />
                 Snelle Tests
               </h2>
-              <p className="text-sky-100 mb-6">Korte tests die je in 5-10 minuten kunt voltooien</p>
+              <p className="text-sky-100 mb-6">Korte toetsen</p>
               
               <div className="space-y-3">
                 <button 
                   onClick={() => startTest('vocabulary', 15, 'multiple-choice', 'dutch-to-german')}
                   className="w-full p-4 text-left rounded-lg bg-white/10 hover:bg-white/20 transition-colors"
                 >
-                  <div className="font-medium">Nederlands naar Duits Test</div>
+                  <div className="font-medium">Nederlands naar Duits toets</div>
                   <div className="text-xs mt-1 text-sky-200">15 woorden • 5 minuten</div>
                 </button>
                 
@@ -228,7 +228,7 @@ const TestsPage: React.FC = () => {
                   onClick={() => startTest('vocabulary', 15, 'multiple-choice', 'german-to-dutch')}
                   className="w-full p-4 text-left rounded-lg bg-white/10 hover:bg-white/20 transition-colors"
                 >
-                  <div className="font-medium">Duits naar Nederlands Test</div>
+                  <div className="font-medium">Duits naar Nederlands toets</div>
                   <div className="text-xs mt-1 text-sky-200">15 woorden • 5 minuten</div>
                 </button>
                 
@@ -236,7 +236,7 @@ const TestsPage: React.FC = () => {
                   onClick={() => startTest('verb-conjugation', 10, 'write', 'dutch-to-german')}
                   className="w-full p-4 text-left rounded-lg bg-white/10 hover:bg-white/20 transition-colors"
                 >
-                  <div className="font-medium">Werkwoordvervoegingen Test</div>
+                  <div className="font-medium">Werkwoordvervoegingen toets</div>
                   <div className="text-xs mt-1 text-sky-200">10 vragen • 7 minuten</div>
                 </button>
                 
@@ -244,7 +244,7 @@ const TestsPage: React.FC = () => {
                   onClick={() => startTest('past-participle', 10, 'write', 'dutch-to-german')}
                   className="w-full p-4 text-left rounded-lg bg-white/10 hover:bg-white/20 transition-colors"
                 >
-                  <div className="font-medium">Voltooid Deelwoord Test</div>
+                  <div className="font-medium">Voltooid Deelwoord toets</div>
                   <div className="text-xs mt-1 text-sky-200">10 vragen • 7 minuten</div>
                 </button>
               </div>
@@ -255,14 +255,14 @@ const TestsPage: React.FC = () => {
                 <FileText className="w-5 h-5 text-sky-300" />
                 Volledige Examens
               </h2>
-              <p className="text-sky-100 mb-6">Complete examens die alle aspecten van de Duitse taal testen</p>
+              <p className="text-sky-100 mb-6">Langere toetsen</p>
               
               <div className="space-y-3">
                 <button 
                   onClick={() => startTest('full-vocabulary', 30, 'multiple-choice', 'dutch-to-german')}
                   className="w-full p-4 text-left rounded-lg bg-white/10 hover:bg-white/20 transition-colors"
                 >
-                  <div className="font-medium">Volledig Woordenschat Examen</div>
+                  <div className="font-medium">Woordenschat toets</div>
                   <div className="text-xs mt-1 text-sky-200">30 woorden • 20 minuten</div>
                 </button>
                 
@@ -270,7 +270,7 @@ const TestsPage: React.FC = () => {
                   onClick={() => startTest('full-grammar', 20, 'grammar')}
                   className="w-full p-4 text-left rounded-lg bg-white/10 hover:bg-white/20 transition-colors"
                 >
-                  <div className="font-medium">Volledig Grammatica Examen</div>
+                  <div className="font-medium">Grammatica toets</div>
                   <div className="text-xs mt-1 text-sky-200">20 vragen • 15 minuten</div>
                 </button>
                 
@@ -278,7 +278,7 @@ const TestsPage: React.FC = () => {
                   onClick={() => startTest('complete-german', 50, 'multiple-choice')}
                   className="w-full p-4 text-left rounded-lg bg-white/10 hover:bg-white/20 transition-colors"
                 >
-                  <div className="font-medium">Compleet Duits Examen</div>
+                  <div className="font-medium">Lange Duits toets</div>
                   <div className="text-xs mt-1 text-sky-200">50 vragen • 45 minuten</div>
                 </button>
               </div>
@@ -286,7 +286,7 @@ const TestsPage: React.FC = () => {
           </div>
           
           <div className="bg-white/5 backdrop-blur-lg rounded-xl p-6">
-            <h2 className="text-xl font-semibold mb-4">Jouw Voortgang</h2>
+            <h2 className="text-xl font-semibold mb-4">je resultaten</h2>
             
             <div className="mb-6">
               <div className="flex justify-between mb-2">
@@ -313,7 +313,7 @@ const TestsPage: React.FC = () => {
             
             {!testResults && (
               <p className="text-center text-sky-200 italic">
-                Voltooi je eerste test om je voortgang bij te houden!
+                maak je eerste toets om resultaten te zien!
               </p>
             )}
           </div>
