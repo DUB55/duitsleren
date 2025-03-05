@@ -12,11 +12,11 @@ const config = {
       isNew: true,
       enabled: true,
       title: "Woordenlijst",
-      description: "Leer nieuwe Duitse woorden met verschillende oefenmethoden",
+      description: "Alle Duitse woorden leren",
       modes: [
         "Leren - Alle woorden leren",
         "Meerkeuze - Meerkeuzevragen",
-        "Schrijven - Alle woorden opgeschrijven"
+        "Schrijven - Alle woorden schrijven"
       ],
       path: "/vocabulary"
     },
@@ -24,7 +24,7 @@ const config = {
       isNew: false,
       enabled: true,
       title: "Woordenlijst Overzicht",
-      description: "Bekijk alle woorden die je moet leren",
+      description: "Een overzicht van alle woorden die je moet leren",
       path: "/word-list"
     },
     grammar: {
