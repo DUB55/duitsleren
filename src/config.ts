@@ -77,7 +77,7 @@ const config = {
     same_button_size: false,
     display_bekijk_leermethoden: true,
     display_test_info: true,
-    test_info_text: "Voor de toets moet je alle woorden uit de woordenlijst kennen. Daarnaast moet je de grammaticaregels beheersen en kunnen toepassen. Besteed extra aandacht aan de werkwoordvervoegingen en het gebruik van de juiste lidwoorden. Zorg ervoor dat je de verschillende naamvallen (Nominativ, Akkusativ, Dativ) goed kent en kunt toepassen in zinnen. Oefen ook met het schrijven van korte teksten waarin je de geleerde woorden en grammatica gebruikt."
+    test_info_text: "Je moet alle woorden uit de woordenlijst kennen, alle grammatica-regels en alle vervoegingen van de werkwoorden haben, sein en werden."
   },
   
   // SEO settings
