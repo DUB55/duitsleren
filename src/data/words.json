@@ -1,0 +1,1224 @@
+[
+  {
+    "id": "n1",
+    "dutch": "de baan",
+    "german": "der Job",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ik heb een nieuwe baan gevonden.",
+        "german": "Ich habe einen neuen Job gefunden."
+      }
+    ]
+  },
+  {
+    "id": "n2",
+    "dutch": "het bijbaantje",
+    "german": "der Nebenjob",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Hij heeft een bijbaantje in een winkel.",
+        "german": "Er hat einen Nebenjob in einem Laden."
+      }
+    ]
+  },
+  {
+    "id": "n3",
+    "dutch": "het nadeel",
+    "german": "der Nachteil",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Het nadeel van dit werk is de lange reistijd.",
+        "german": "Der Nachteil dieser Arbeit ist die lange Fahrzeit."
+      }
+    ]
+  },
+  {
+    "id": "n4",
+    "dutch": "het voordeel",
+    "german": "der Vorteil",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Het grote voordeel is dat ik thuis kan werken.",
+        "german": "Der große Vorteil ist, dass ich zu Hause arbeiten kann."
+      }
+    ]
+  },
+  {
+    "id": "n5",
+    "dutch": "het succes",
+    "german": "der Erfolg",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Haar succes komt door hard werken.",
+        "german": "Ihr Erfolg kommt durch harte Arbeit."
+      }
+    ]
+  },
+  {
+    "id": "n6",
+    "dutch": "succesvol",
+    "german": "erfolgreich",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Hij is een succesvolle zakenman.",
+        "german": "Er ist ein erfolgreicher Geschäftsmann."
+      }
+    ]
+  },
+  {
+    "id": "n7",
+    "dutch": "de keuze",
+    "german": "die Wahl",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Het is een moeilijke keuze tussen twee banen.",
+        "german": "Es ist eine schwierige Wahl zwischen zwei Jobs."
+      }
+    ]
+  },
+  {
+    "id": "n8",
+    "dutch": "kiezen",
+    "german": "wählen",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Je moet zelf kiezen welke opleiding je wilt doen.",
+        "german": "Du musst selbst wählen, welche Ausbildung du machen möchtest."
+      }
+    ]
+  },
+  {
+    "id": "n9",
+    "dutch": "de opleiding",
+    "german": "die Ausbildung",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ze volgt een opleiding tot verpleegkundige.",
+        "german": "Sie macht eine Ausbildung zur Krankenpflegerin."
+      }
+    ]
+  },
+  {
+    "id": "n10",
+    "dutch": "de toekomst",
+    "german": "die Zukunft",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Niemand weet wat de toekomst brengt.",
+        "german": "Niemand weiß, was die Zukunft bringt."
+      }
+    ]
+  },
+  {
+    "id": "n11",
+    "dutch": "de wereldreis",
+    "german": "die Weltreise",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Hij wil na zijn studie een wereldreis maken.",
+        "german": "Er möchte nach seinem Studium eine Weltreise machen."
+      }
+    ]
+  },
+  {
+    "id": "n12",
+    "dutch": "het werk",
+    "german": "die Arbeit",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ze zoekt werk in de stad.",
+        "german": "Sie sucht Arbeit in der Stadt."
+      }
+    ]
+  },
+  {
+    "id": "n13",
+    "dutch": "het buitenland",
+    "german": "das Ausland",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Hij wil graag in het buitenland werken.",
+        "german": "Er möchte gerne im Ausland arbeiten."
+      }
+    ]
+  },
+  {
+    "id": "n14",
+    "dutch": "het paspoort",
+    "german": "der Ausweis",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Je hebt een paspoort nodig om naar het buitenland te reizen.",
+        "german": "Du brauchst einen Ausweis, um ins Ausland zu reisen."
+      }
+    ]
+  },
+  {
+    "id": "n15",
+    "dutch": "het nieuws",
+    "german": "die Nachrichten",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Elke avond kijk ik naar het nieuws.",
+        "german": "Jeden Abend schaue ich die Nachrichten."
+      }
+    ]
+  },
+  {
+    "id": "n16",
+    "dutch": "het doel",
+    "german": "das Ziel",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Mijn doel is om dokter te worden.",
+        "german": "Mein Ziel ist es, Arzt zu werden."
+      }
+    ]
+  },
+  {
+    "id": "n17",
+    "dutch": "economie",
+    "german": "die Wirtschaft",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Hij studeert economie aan de universiteit.",
+        "german": "Er studiert Wirtschaft an der Universität."
+      }
+    ]
+  },
+  {
+    "id": "n18",
+    "dutch": "het (school)vak",
+    "german": "das Fach",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Wiskunde is mijn favoriete schoolvak.",
+        "german": "Mathematik ist mein Lieblingsfach."
+      }
+    ]
+  },
+  {
+    "id": "n19",
+    "dutch": "de vakken",
+    "german": "die Fächer",
+    "category": "baan_en_toekomst",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ze heeft dit jaar veel moeilijke vakken.",
+        "german": "Sie hat dieses Jahr viele schwierige Fächer."
+      }
+    ]
+  },
+  {
+    "id": "n20",
+    "dutch": "makkelijk",
+    "german": "einfach / leicht",
+    "category": "bijvoeglijke_naamwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Deze oefening is heel makkelijk.",
+        "german": "Diese Übung ist sehr einfach."
+      }
+    ]
+  },
+  {
+    "id": "n21",
+    "dutch": "moeilijk",
+    "german": "schwierig / schwer",
+    "category": "bijvoeglijke_naamwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "De toets was erg moeilijk.",
+        "german": "Der Test war sehr schwierig."
+      }
+    ]
+  },
+  {
+    "id": "n22",
+    "dutch": "leuk",
+    "german": "toll",
+    "category": "bijvoeglijke_naamwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Het was een leuk feest gisteren.",
+        "german": "Die Party gestern war toll."
+      }
+    ]
+  },
+  {
+    "id": "n23",
+    "dutch": "stom",
+    "german": "doof / blöd",
+    "category": "bijvoeglijke_naamwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik vind het stom dat je niet kon komen.",
+        "german": "Ich finde es doof, dass du nicht kommen konntest."
+      }
+    ]
+  },
+  {
+    "id": "n24",
+    "dutch": "saai",
+    "german": "langweilig",
+    "category": "bijvoeglijke_naamwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "De film was zo saai dat ik in slaap viel.",
+        "german": "Der Film war so langweilig, dass ich eingeschlafen bin."
+      }
+    ]
+  },
+  {
+    "id": "n25",
+    "dutch": "bijna",
+    "german": "fast",
+    "category": "bijwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Het is bijna tijd om naar school te gaan.",
+        "german": "Es ist fast Zeit, in die Schule zu gehen."
+      }
+    ]
+  },
+  {
+    "id": "n26",
+    "dutch": "binnen",
+    "german": "drinnen",
+    "category": "bijwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Het regent, dus we blijven binnen.",
+        "german": "Es regnet, also bleiben wir drinnen."
+      }
+    ]
+  },
+  {
+    "id": "n27",
+    "dutch": "buiten",
+    "german": "draußen",
+    "category": "bijwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "De kinderen spelen buiten in de tuin.",
+        "german": "Die Kinder spielen draußen im Garten."
+      }
+    ]
+  },
+  {
+    "id": "n28",
+    "dutch": "bijvoorbeeld",
+    "german": "zum Beispiel",
+    "category": "bijwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Je kunt bijvoorbeeld fietsen of wandelen.",
+        "german": "Du kannst zum Beispiel Fahrrad fahren oder wandern."
+      }
+    ]
+  },
+  {
+    "id": "n29",
+    "dutch": "gelukkig (blij)",
+    "german": "glücklich",
+    "category": "bijwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ze is gelukkig met haar nieuwe baan.",
+        "german": "Sie ist glücklich mit ihrem neuen Job."
+      }
+    ]
+  },
+  {
+    "id": "n30",
+    "dutch": "gelukkig (gelukkig maar)",
+    "german": "zum Glück",
+    "category": "bijwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Gelukkig was er geen ongeluk.",
+        "german": "Zum Glück gab es keinen Unfall."
+      }
+    ]
+  },
+  {
+    "id": "n31",
+    "dutch": "in ieder geval",
+    "german": "auf jeden Fall",
+    "category": "bijwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "In ieder geval kom ik morgen langs.",
+        "german": "Auf jeden Fall komme ich morgen vorbei."
+      }
+    ]
+  },
+  {
+    "id": "n32",
+    "dutch": "nodig hebben",
+    "german": "brauchen",
+    "category": "bijwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Je hebt een geldig paspoort nodig voor de reis.",
+        "german": "Du brauchst einen gültigen Ausweis für die Reise."
+      }
+    ]
+  },
+  {
+    "id": "n33",
+    "dutch": "misschien",
+    "german": "vielleicht",
+    "category": "bijwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Misschien gaan we dit weekend naar het strand.",
+        "german": "Vielleicht fahren wir dieses Wochenende ans Meer."
+      }
+    ]
+  },
+  {
+    "id": "n34",
+    "dutch": "nu",
+    "german": "jetzt",
+    "category": "bijwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ik doe nu mijn huiswerk.",
+        "german": "Ich mache jetzt meine Hausaufgaben."
+      }
+    ]
+  },
+  {
+    "id": "n35",
+    "dutch": "soms",
+    "german": "manchmal",
+    "category": "bijwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Soms eet ik 's avonds bij mijn oma.",
+        "german": "Manchmal esse ich abends bei meiner Oma."
+      }
+    ]
+  },
+  {
+    "id": "n36",
+    "dutch": "later",
+    "german": "später",
+    "category": "bijwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Later wil ik dokter worden.",
+        "german": "Später möchte ich Arzt werden."
+      }
+    ]
+  },
+  {
+    "id": "n37",
+    "dutch": "sinds",
+    "german": "seit",
+    "category": "bijwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ik woon hier al sinds drie jaar.",
+        "german": "Ich wohne hier schon seit drei Jahren."
+      }
+    ]
+  },
+  {
+    "id": "n38",
+    "dutch": "vanavond",
+    "german": "heute Abend",
+    "category": "tijdsaanduidingen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Vanavond kijk ik een film op tv.",
+        "german": "Heute Abend schaue ich einen Film im Fernsehen."
+      }
+    ]
+  },
+  {
+    "id": "n39",
+    "dutch": "vanmiddag",
+    "german": "heute Nachmittag",
+    "category": "tijdsaanduidingen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Vanmiddag ga ik met vrienden sporten.",
+        "german": "Heute Nachmittag gehe ich mit Freunden Sport machen."
+      }
+    ]
+  },
+  {
+    "id": "n40",
+    "dutch": "het weekend",
+    "german": "das Wochenende",
+    "category": "tijdsaanduidingen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "In het weekend slaap ik altijd lang.",
+        "german": "Am Wochenende schlafe ich immer lange."
+      }
+    ]
+  },
+  {
+    "id": "n41",
+    "dutch": "de pijn",
+    "german": "die Schmerzen",
+    "category": "gezondheid_en_hulp",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ze heeft pijn in haar knie na het sporten.",
+        "german": "Sie hat Schmerzen im Knie nach dem Sport."
+      }
+    ]
+  },
+  {
+    "id": "n42",
+    "dutch": "de dokter",
+    "german": "der Arzt",
+    "category": "gezondheid_en_hulp",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ik ga morgen naar de dokter.",
+        "german": "Ich gehe morgen zum Arzt."
+      }
+    ]
+  },
+  {
+    "id": "n43",
+    "dutch": "gewond",
+    "german": "verletzt",
+    "category": "gezondheid_en_hulp",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Hij raakte gewond tijdens het voetballen.",
+        "german": "Er wurde beim Fußballspielen verletzt."
+      }
+    ]
+  },
+  {
+    "id": "n44",
+    "dutch": "de brandweer",
+    "german": "die Feuerwehr",
+    "category": "gezondheid_en_hulp",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "De brandweer bluste het vuur snel.",
+        "german": "Die Feuerwehr löschte das Feuer schnell."
+      }
+    ]
+  },
+  {
+    "id": "n45",
+    "dutch": "het ziekenhuis",
+    "german": "das Krankenhaus",
+    "category": "gezondheid_en_hulp",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ze werd met spoed naar het ziekenhuis gebracht.",
+        "german": "Sie wurde dringend ins Krankenhaus gebracht."
+      }
+    ]
+  },
+  {
+    "id": "n46",
+    "dutch": "de ambulance",
+    "german": "der Krankenwagen",
+    "category": "gezondheid_en_hulp",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "De ambulance reed snel naar het ongeluk.",
+        "german": "Der Krankenwagen fuhr schnell zum Unfall."
+      }
+    ]
+  },
+  {
+    "id": "n47",
+    "dutch": "de politie",
+    "german": "die Polizei",
+    "category": "gezondheid_en_hulp",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "De politie heeft de dief gevangen.",
+        "german": "Die Polizei hat den Dieb gefasst."
+      }
+    ]
+  },
+  {
+    "id": "n48",
+    "dutch": "de hulp",
+    "german": "die Hilfe",
+    "category": "gezondheid_en_hulp",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ze had hulp nodig van haar buren.",
+        "german": "Sie brauchte die Hilfe ihrer Nachbarn."
+      }
+    ]
+  },
+  {
+    "id": "n49",
+    "dutch": "helpen",
+    "german": "helfen – geholfen",
+    "category": "werkwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Kun jij mij helpen met dit probleem?",
+        "german": "Kannst du mir bei diesem Problem helfen?"
+      }
+    ]
+  },
+  {
+    "id": "n50",
+    "dutch": "lopen",
+    "german": "laufen – gelaufen",
+    "category": "werkwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "We lopen elke ochtend een rondje in het park.",
+        "german": "Wir laufen jeden Morgen eine Runde im Park."
+      }
+    ]
+  },
+  {
+    "id": "n51",
+    "dutch": "nemen",
+    "german": "nehmen – genommen",
+    "category": "werkwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ik neem elke dag de bus naar school.",
+        "german": "Ich nehme jeden Tag den Bus zur Schule."
+      }
+    ]
+  },
+  {
+    "id": "n52",
+    "dutch": "rijden",
+    "german": "fahren – gefahren",
+    "category": "werkwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Hij rijdt elke dag met de fiets naar zijn werk.",
+        "german": "Er fährt jeden Tag mit dem Fahrrad zur Arbeit."
+      }
+    ]
+  },
+  {
+    "id": "n53",
+    "dutch": "gaan",
+    "german": "gehen – gegangen",
+    "category": "werkwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "We gaan dit weekend naar het museum.",
+        "german": "Wir gehen dieses Wochenende ins Museum."
+      }
+    ]
+  },
+  {
+    "id": "n54",
+    "dutch": "zijn",
+    "german": "sein – gewesen",
+    "category": "werkwoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ik ben blij dat ik hier ben.",
+        "german": "Ich bin froh, dass ich hier bin."
+      }
+    ]
+  },
+  {
+    "id": "d1",
+    "dutch": "de maatschappij",
+    "german": "die Gesellschaft",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "We moeten samen werken aan een betere maatschappij.",
+        "german": "Wir müssen gemeinsam an einer besseren Gesellschaft arbeiten."
+      }
+    ]
+  },
+  {
+    "id": "d2",
+    "dutch": "oplossen",
+    "german": "lösen",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "We moeten het milieuprobleem samen oplossen.",
+        "german": "Wir müssen das Umweltproblem gemeinsam lösen."
+      }
+    ]
+  },
+  {
+    "id": "d3",
+    "dutch": "uitnodigen",
+    "german": "einladen",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ze wil al haar vrienden uitnodigen voor haar verjaardag.",
+        "german": "Sie möchte alle ihre Freunde zu ihrem Geburtstag einladen."
+      }
+    ]
+  },
+  {
+    "id": "d4",
+    "dutch": "het afval",
+    "german": "der Müll",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Gooi je afval altijd in de prullenbak.",
+        "german": "Wirf deinen Müll immer in den Mülleimer."
+      }
+    ]
+  },
+  {
+    "id": "d5",
+    "dutch": "enorm / reusachtig",
+    "german": "riesig",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Het verschil tussen de twee landen is enorm.",
+        "german": "Der Unterschied zwischen den zwei Ländern ist riesig."
+      }
+    ]
+  },
+  {
+    "id": "d6",
+    "dutch": "het gevolg",
+    "german": "die Folge",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Klimaatverandering is een gevolg van vervuiling.",
+        "german": "Klimawandel ist eine Folge der Verschmutzung."
+      }
+    ]
+  },
+  {
+    "id": "d7",
+    "dutch": "het toestel",
+    "german": "das Gerät",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Mijn nieuwe toestel werkt uitstekend.",
+        "german": "Mein neues Gerät funktioniert ausgezeichnet."
+      }
+    ]
+  },
+  {
+    "id": "d8",
+    "dutch": "mooi",
+    "german": "schön",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Wat een mooie dag is het vandaag!",
+        "german": "Was für ein schöner Tag ist heute!"
+      }
+    ]
+  },
+  {
+    "id": "d9",
+    "dutch": "de bescherming",
+    "german": "der Schutz",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "De bescherming van het milieu is erg belangrijk.",
+        "german": "Der Schutz der Umwelt ist sehr wichtig."
+      }
+    ]
+  },
+  {
+    "id": "d10",
+    "dutch": "het milieu",
+    "german": "die Umwelt",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "We moeten beter voor het milieu zorgen.",
+        "german": "Wir müssen besser auf die Umwelt achten."
+      }
+    ]
+  },
+  {
+    "id": "d11",
+    "dutch": "de voeding",
+    "german": "die Nahrung",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Gezonde voeding is belangrijk voor je gezondheid.",
+        "german": "Gesunde Nahrung ist wichtig für deine Gesundheit."
+      }
+    ]
+  },
+  {
+    "id": "d12",
+    "dutch": "de volwassene",
+    "german": "der Erwachsene",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Een volwassene heeft meer verantwoordelijkheden dan een kind.",
+        "german": "Ein Erwachsener hat mehr Verantwortung als ein Kind."
+      }
+    ]
+  },
+  {
+    "id": "d13",
+    "dutch": "dromen",
+    "german": "träumen",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ze droomt elke nacht van een mooie toekomst.",
+        "german": "Sie träumt jede Nacht von einer schönen Zukunft."
+      }
+    ]
+  },
+  {
+    "id": "d14",
+    "dutch": "het onderzoek",
+    "german": "die Forschung",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Wetenschappers doen veel onderzoek naar klimaatverandering.",
+        "german": "Wissenschaftler betreiben viel Forschung zum Klimawandel."
+      }
+    ]
+  },
+  {
+    "id": "d15",
+    "dutch": "het dagelijks leven",
+    "german": "der Alltag",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Technologie speelt een grote rol in het dagelijks leven.",
+        "german": "Technologie spielt eine große Rolle im Alltag."
+      }
+    ]
+  },
+  {
+    "id": "d16",
+    "dutch": "de soort",
+    "german": "die Art",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Er zijn veel soorten vlinders in dit gebied.",
+        "german": "Es gibt viele Arten von Schmetterlingen in dieser Region."
+      }
+    ]
+  },
+  {
+    "id": "d17",
+    "dutch": "de (wed)strijd",
+    "german": "der (Wett)kampf",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "De wedstrijd was spannend tot het laatste moment.",
+        "german": "Der Wettkampf war bis zum letzten Moment spannend."
+      }
+    ]
+  },
+  {
+    "id": "d18",
+    "dutch": "laten zien",
+    "german": "zeigen",
+    "category": "maatschappij_en_milieu",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Hij wil ons zijn nieuwe schilderij laten zien.",
+        "german": "Er möchte uns sein neues Gemälde zeigen."
+      }
+    ]
+  },
+  {
+    "id": "d19",
+    "dutch": "blijkbaar",
+    "german": "offenbar",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Hij is blijkbaar vergeten dat we hadden afgesproken.",
+        "german": "Er hat offenbar vergessen, dass wir uns verabredet hatten."
+      }
+    ]
+  },
+  {
+    "id": "d20",
+    "dutch": "meteen / direct",
+    "german": "sofort",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ze belde meteen de dokter toen ze ziek werd.",
+        "german": "Sie rief sofort den Arzt an, als sie krank wurde."
+      }
+    ]
+  },
+  {
+    "id": "d21",
+    "dutch": "al",
+    "german": "schon",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Heb je je huiswerk al af?",
+        "german": "Hast du deine Hausaufgaben schon fertig?"
+      }
+    ]
+  },
+  {
+    "id": "d22",
+    "dutch": "gemiddeld",
+    "german": "durchschnittlich",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Een student leest gemiddeld twee boeken per maand.",
+        "german": "Ein Student liest durchschnittlich zwei Bücher pro Monat."
+      }
+    ]
+  },
+  {
+    "id": "d23",
+    "dutch": "jammer",
+    "german": "schade",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Het is jammer dat je er niet bij kunt zijn.",
+        "german": "Es ist schade, dass du nicht dabei sein kannst."
+      }
+    ]
+  },
+  {
+    "id": "d24",
+    "dutch": "het maakt niet uit",
+    "german": "es ist egal",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Het maakt niet uit wanneer je komt, ik ben thuis.",
+        "german": "Es ist egal, wann du kommst, ich bin zu Hause."
+      }
+    ]
+  },
+  {
+    "id": "d25",
+    "dutch": "betekenen",
+    "german": "bedeuten",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Wat betekent dit woord in het Nederlands?",
+        "german": "Was bedeutet dieses Wort auf Niederländisch?"
+      }
+    ]
+  },
+  {
+    "id": "d26",
+    "dutch": "dagelijks",
+    "german": "täglich",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ze sport dagelijks om fit te blijven.",
+        "german": "Sie macht täglich Sport, um fit zu bleiben."
+      }
+    ]
+  },
+  {
+    "id": "d27",
+    "dutch": "per se / absoluut",
+    "german": "unbedingt",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Je hoeft dit boek niet per se te lezen.",
+        "german": "Du musst dieses Buch nicht unbedingt lesen."
+      }
+    ]
+  },
+  {
+    "id": "d28",
+    "dutch": "helaas",
+    "german": "leider",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Helaas kan ik niet naar het feest komen.",
+        "german": "Leider kann ich nicht zur Party kommen."
+      }
+    ]
+  },
+  {
+    "id": "d29",
+    "dutch": "want",
+    "german": "denn",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ik ga vroeg slapen, want ik ben moe.",
+        "german": "Ich gehe früh schlafen, denn ich bin müde."
+      }
+    ]
+  },
+  {
+    "id": "d30",
+    "dutch": "echter",
+    "german": "jedoch",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Het plan klinkt goed, echter zijn er nog enkele problemen.",
+        "german": "Der Plan klingt gut, jedoch gibt es noch einige Probleme."
+      }
+    ]
+  },
+  {
+    "id": "d31",
+    "dutch": "echter",
+    "german": "allerdings",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Het was een leuke vakantie, echter was het weer niet zo mooi.",
+        "german": "Es war ein schöner Urlaub, allerdings war das Wetter nicht so schön."
+      }
+    ]
+  },
+  {
+    "id": "d32",
+    "dutch": "omdat",
+    "german": "weil",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ik studeer hard omdat ik goede cijfers wil halen.",
+        "german": "Ich lerne fleißig, weil ich gute Noten bekommen möchte."
+      }
+    ]
+  },
+  {
+    "id": "d33",
+    "dutch": "inderdaad",
+    "german": "tatsächlich",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Het is inderdaad waar dat hij de beste leerling is.",
+        "german": "Es ist tatsächlich wahr, dass er der beste Schüler ist."
+      }
+    ]
+  },
+  {
+    "id": "d34",
+    "dutch": "in plaats van",
+    "german": "statt",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ze koos voor een fiets in plaats van een auto.",
+        "german": "Sie wählte ein Fahrrad statt eines Autos."
+      }
+    ]
+  },
+  {
+    "id": "d35",
+    "dutch": "alleen maar / slechts",
+    "german": "nur",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ik heb alleen maar één euro bij me.",
+        "german": "Ich habe nur einen Euro dabei."
+      }
+    ]
+  },
+  {
+    "id": "d36",
+    "dutch": "bovendien",
+    "german": "außerdem",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Het huis is mooi en bovendien goedkoop.",
+        "german": "Das Haus ist schön und außerdem günstig."
+      }
+    ]
+  },
+  {
+    "id": "d37",
+    "dutch": "desondanks",
+    "german": "trotzdem",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Het regende, maar desondanks gingen we wandelen.",
+        "german": "Es regnete, aber wir gingen trotzdem spazieren."
+      }
+    ]
+  },
+  {
+    "id": "d38",
+    "dutch": "in ieder geval",
+    "german": "jedenfalls",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ik weet het niet zeker, maar in ieder geval probeer ik het.",
+        "german": "Ich bin nicht sicher, aber ich versuche es jedenfalls."
+      }
+    ]
+  },
+  {
+    "id": "d39",
+    "dutch": "weliswaar",
+    "german": "zwar",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Het is weliswaar duur, maar de kwaliteit is uitstekend.",
+        "german": "Es ist zwar teuer, aber die Qualität ist ausgezeichnet."
+      }
+    ]
+  },
+  {
+    "id": "d40",
+    "dutch": "al helemaal",
+    "german": "gar",
+    "category": "verbindingswoorden",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "dutch": "Ik houd er al helemaal niet van om vroeg op te staan.",
+        "german": "Ich mag es gar nicht, früh aufzustehen."
+      }
+    ]
+  }
+]

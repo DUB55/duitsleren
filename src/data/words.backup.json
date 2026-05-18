@@ -1,0 +1,1445 @@
+[
+  {
+    "id": "w1",
+    "dutch": "hallo",
+    "german": "hallo",
+    "category": "begroetingen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Hallo, ik ben Lisa en ik zit in de derde klas.",
+        "german": "Hallo, ich bin Lisa und ich bin in der dritten Klasse."
+      }
+    ]
+  },
+  {
+    "id": "w2",
+    "dutch": "goedemorgen",
+    "german": "guten Morgen",
+    "category": "begroetingen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Goedemorgen, mevrouw! Zijn we al begonnen?",
+        "german": "Guten Morgen, Frau Lehrerin! Haben wir schon angefangen?"
+      }
+    ]
+  },
+  {
+    "id": "w3",
+    "dutch": "goedemiddag",
+    "german": "guten Tag",
+    "category": "begroetingen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Goedemiddag, mijnheer de leraar, mag ik binnenkomen?",
+        "german": "Guten Tag, Herr Lehrer, darf ich hereinkommen?"
+      }
+    ]
+  },
+  {
+    "id": "w4",
+    "dutch": "goedenavond",
+    "german": "guten Abend",
+    "category": "begroetingen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Goedenavond, ik heb mijn huiswerk eindelijk afgemaakt.",
+        "german": "Guten Abend, ich habe meine Hausaufgaben endlich fertig gemacht."
+      }
+    ]
+  },
+  {
+    "id": "w5",
+    "dutch": "tot ziens",
+    "german": "auf Wiedersehen",
+    "category": "begroetingen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Tot ziens, tot morgen op school!",
+        "german": "Auf Wiedersehen, bis morgen in der Schule!"
+      }
+    ]
+  },
+  {
+    "id": "w6",
+    "dutch": "doei",
+    "german": "tschüss",
+    "category": "begroetingen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Doei, fijn weekend allemaal!",
+        "german": "Tschüss, schönes Wochenende an alle!"
+      }
+    ]
+  },
+  {
+    "id": "w7",
+    "dutch": "alsjeblieft",
+    "german": "bitte",
+    "category": "begroetingen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mag ik jouw pen lenen, alsjeblieft?",
+        "german": "Darf ich deinen Stift ausleihen, bitte?"
+      }
+    ]
+  },
+  {
+    "id": "w8",
+    "dutch": "dankjewel",
+    "german": "danke schön",
+    "category": "begroetingen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Dankjewel voor je hulp met het huiswerk.",
+        "german": "Danke schön für deine Hilfe bei den Hausaufgaben."
+      }
+    ]
+  },
+  {
+    "id": "w9",
+    "dutch": "sorry",
+    "german": "Entschuldigung",
+    "category": "begroetingen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Sorry, ik ben te laat voor de les.",
+        "german": "Entschuldigung, ich bin zu spät für den Unterricht."
+      }
+    ]
+  },
+  {
+    "id": "w10",
+    "dutch": "één",
+    "german": "eins",
+    "category": "getallen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik heb maar één schrift voor alle vakken.",
+        "german": "Ich habe nur ein Heft für alle Fächer."
+      }
+    ]
+  },
+  {
+    "id": "w11",
+    "dutch": "twee",
+    "german": "zwei",
+    "category": "getallen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Er zijn twee leraren ziek vandaag.",
+        "german": "Heute sind zwei Lehrer krank."
+      }
+    ]
+  },
+  {
+    "id": "w12",
+    "dutch": "drie",
+    "german": "drei",
+    "category": "getallen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik heb drie proefwerken deze week.",
+        "german": "Ich habe diese Woche drei Prüfungen."
+      }
+    ]
+  },
+  {
+    "id": "w13",
+    "dutch": "vier",
+    "german": "vier",
+    "category": "getallen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "We hebben vier lessen vandaag.",
+        "german": "Wir haben heute vier Stunden."
+      }
+    ]
+  },
+  {
+    "id": "w14",
+    "dutch": "vijf",
+    "german": "fünf",
+    "category": "getallen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik heb vijf punten verloren op het examen.",
+        "german": "Ich habe fünf Punkte in der Prüfung verloren."
+      }
+    ]
+  },
+  {
+    "id": "w15",
+    "dutch": "zes",
+    "german": "sechs",
+    "category": "getallen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Er zijn zes kinderen in mijn groep.",
+        "german": "In meiner Gruppe gibt es sechs Kinder."
+      }
+    ]
+  },
+  {
+    "id": "w16",
+    "dutch": "zeven",
+    "german": "sieben",
+    "category": "getallen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "De les begint om zeven uur 's ochtends.",
+        "german": "Der Unterricht beginnt um sieben Uhr morgens."
+      }
+    ]
+  },
+  {
+    "id": "w17",
+    "dutch": "acht",
+    "german": "acht",
+    "category": "getallen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik heb acht op tien gekregen voor mijn toets.",
+        "german": "Ich habe acht von zehn Punkten für meine Prüfung bekommen."
+      }
+    ]
+  },
+  {
+    "id": "w18",
+    "dutch": "negen",
+    "german": "neun",
+    "category": "getallen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "We hebben nog negen weken tot de vakantie.",
+        "german": "Wir haben noch neun Wochen bis zu den Ferien."
+      }
+    ]
+  },
+  {
+    "id": "w19",
+    "dutch": "tien",
+    "german": "zehn",
+    "category": "getallen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik heb tien op tien gehaald voor mijn opstel!",
+        "german": "Ich habe zehn von zehn Punkten für meinen Aufsatz bekommen!"
+      }
+    ]
+  },
+  {
+    "id": "w20",
+    "dutch": "rood",
+    "german": "rot",
+    "category": "kleuren",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "De leraar heeft mijn fouten in rood aangestreept.",
+        "german": "Die Lehrerin hat meine Fehler in Rot unterstrichen."
+      }
+    ]
+  },
+  {
+    "id": "w21",
+    "dutch": "blauw",
+    "german": "blau",
+    "category": "kleuren",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn schooltas is blauw.",
+        "german": "Meine Schultasche ist blau."
+      }
+    ]
+  },
+  {
+    "id": "w22",
+    "dutch": "geel",
+    "german": "gelb",
+    "category": "kleuren",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik gebruik een gele stift om belangrijke woorden te markeren.",
+        "german": "Ich benutze einen gelben Marker, um wichtige Wörter zu markieren."
+      }
+    ]
+  },
+  {
+    "id": "w23",
+    "dutch": "groen",
+    "german": "grün",
+    "category": "kleuren",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Het schoolbord is groen.",
+        "german": "Die Tafel ist grün."
+      }
+    ]
+  },
+  {
+    "id": "w24",
+    "dutch": "wit",
+    "german": "weiß",
+    "category": "kleuren",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "De leraar schrijft met witte krijt op het bord.",
+        "german": "Die Lehrerin schreibt mit weißer Kreide an die Tafel."
+      }
+    ]
+  },
+  {
+    "id": "w25",
+    "dutch": "zwart",
+    "german": "schwarz",
+    "category": "kleuren",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik schrijf altijd met een zwarte pen.",
+        "german": "Ich schreibe immer mit einem schwarzen Stift."
+      }
+    ]
+  },
+  {
+    "id": "w26",
+    "dutch": "oranje",
+    "german": "orange",
+    "category": "kleuren",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Onze school heeft een oranje logo.",
+        "german": "Unsere Schule hat ein oranges Logo."
+      }
+    ]
+  },
+  {
+    "id": "w27",
+    "dutch": "paars",
+    "german": "lila",
+    "category": "kleuren",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn favoriete kleur is paars.",
+        "german": "Meine Lieblingsfarbe ist lila."
+      }
+    ]
+  },
+  {
+    "id": "w28",
+    "dutch": "bruin",
+    "german": "braun",
+    "category": "kleuren",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn boeken zitten in een bruine tas.",
+        "german": "Meine Bücher sind in einer braunen Tasche."
+      }
+    ]
+  },
+  {
+    "id": "w29",
+    "dutch": "grijs",
+    "german": "grau",
+    "category": "kleuren",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Het schoolgebouw is grijs van buiten.",
+        "german": "Das Schulgebäude ist außen grau."
+      }
+    ]
+  },
+  {
+    "id": "w30",
+    "dutch": "maandag",
+    "german": "Montag",
+    "category": "dagen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Op maandag hebben we gym als eerste les.",
+        "german": "Am Montag haben wir Sport als erste Stunde."
+      }
+    ]
+  },
+  {
+    "id": "w31",
+    "dutch": "dinsdag",
+    "german": "Dienstag",
+    "category": "dagen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Dinsdag is mijn favoriete schooldag.",
+        "german": "Dienstag ist mein Lieblingsschultag."
+      }
+    ]
+  },
+  {
+    "id": "w32",
+    "dutch": "woensdag",
+    "german": "Mittwoch",
+    "category": "dagen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Op woensdag ga ik vroeger naar huis.",
+        "german": "Am Mittwoch gehe ich früher nach Hause."
+      }
+    ]
+  },
+  {
+    "id": "w33",
+    "dutch": "donderdag",
+    "german": "Donnerstag",
+    "category": "dagen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Donderdag hebben we een wiskundetoets.",
+        "german": "Am Donnerstag haben wir eine Matheprüfung."
+      }
+    ]
+  },
+  {
+    "id": "w34",
+    "dutch": "vrijdag",
+    "german": "Freitag",
+    "category": "dagen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Op vrijdag zijn we altijd blij dat het weekend begint.",
+        "german": "Am Freitag freuen wir uns immer, dass das Wochenende beginnt."
+      }
+    ]
+  },
+  {
+    "id": "w35",
+    "dutch": "zaterdag",
+    "german": "Samstag",
+    "category": "dagen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Op zaterdag hoef ik niet naar school.",
+        "german": "Am Samstag muss ich nicht in die Schule."
+      }
+    ]
+  },
+  {
+    "id": "w36",
+    "dutch": "zondag",
+    "german": "Sonntag",
+    "category": "dagen",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Op zondag maak ik mijn huiswerk voor de volgende week.",
+        "german": "Am Sonntag mache ich meine Hausaufgaben für die nächste Woche."
+      }
+    ]
+  },
+  {
+    "id": "w37",
+    "dutch": "de vader",
+    "german": "der Vater",
+    "category": "familie",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn vader helpt me met mijn huiswerk.",
+        "german": "Mein Vater hilft mir bei den Hausaufgaben."
+      }
+    ]
+  },
+  {
+    "id": "w38",
+    "dutch": "de moeder",
+    "german": "die Mutter",
+    "category": "familie",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn moeder brengt me elke dag naar school.",
+        "german": "Meine Mutter bringt mich jeden Tag zur Schule."
+      }
+    ]
+  },
+  {
+    "id": "w39",
+    "dutch": "de broer",
+    "german": "der Bruder",
+    "category": "familie",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn broer zit in een hogere klas dan ik.",
+        "german": "Mein Bruder ist in einer höheren Klasse als ich."
+      }
+    ]
+  },
+  {
+    "id": "w40",
+    "dutch": "de zus",
+    "german": "die Schwester",
+    "category": "familie",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn zus leent altijd mijn pen.",
+        "german": "Meine Schwester leiht sich immer meinen Stift."
+      }
+    ]
+  },
+  {
+    "id": "w41",
+    "dutch": "de opa",
+    "german": "der Opa",
+    "category": "familie",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn opa vertelt me verhalen over zijn schooltijd.",
+        "german": "Mein Opa erzählt mir Geschichten aus seiner Schulzeit."
+      }
+    ]
+  },
+  {
+    "id": "w42",
+    "dutch": "de oma",
+    "german": "die Oma",
+    "category": "familie",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn oma haalt me soms op van school.",
+        "german": "Meine Oma holt mich manchmal von der Schule ab."
+      }
+    ]
+  },
+  {
+    "id": "w43",
+    "dutch": "de oom",
+    "german": "der Onkel",
+    "category": "familie",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn oom is leraar op een andere school.",
+        "german": "Mein Onkel ist Lehrer an einer anderen Schule."
+      }
+    ]
+  },
+  {
+    "id": "w44",
+    "dutch": "de tante",
+    "german": "die Tante",
+    "category": "familie",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn tante heeft ook Nederlands geleerd op school.",
+        "german": "Meine Tante hat auch Niederländisch in der Schule gelernt."
+      }
+    ]
+  },
+  {
+    "id": "w45",
+    "dutch": "de school",
+    "german": "die Schule",
+    "category": "school",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Onze school heeft een grote speelplaats.",
+        "german": "Unsere Schule hat einen großen Schulhof."
+      }
+    ]
+  },
+  {
+    "id": "w46",
+    "dutch": "de leraar",
+    "german": "der Lehrer",
+    "category": "school",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "De leraar legt de les duidelijk uit.",
+        "german": "Der Lehrer erklärt den Unterricht deutlich."
+      }
+    ]
+  },
+  {
+    "id": "w47",
+    "dutch": "het boek",
+    "german": "das Buch",
+    "category": "school",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik lees een interessant boek voor de Nederlandse les.",
+        "german": "Ich lese ein interessantes Buch für den Niederländischunterricht."
+      }
+    ]
+  },
+  {
+    "id": "w48",
+    "dutch": "het schrift",
+    "german": "das Heft",
+    "category": "school",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik schrijf alle nieuwe woorden in mijn schrift.",
+        "german": "Ich schreibe alle neuen Wörter in mein Heft."
+      }
+    ]
+  },
+  {
+    "id": "w49",
+    "dutch": "de pen",
+    "german": "der Stift",
+    "category": "school",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mag ik jouw pen lenen voor het dictee?",
+        "german": "Darf ich deinen Stift für das Diktat ausleihen?"
+      }
+    ]
+  },
+  {
+    "id": "w50",
+    "dutch": "het huiswerk",
+    "german": "die Hausaufgaben",
+    "category": "school",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik maak mijn huiswerk altijd direct na school.",
+        "german": "Ich mache meine Hausaufgaben immer direkt nach der Schule."
+      }
+    ]
+  },
+  {
+    "id": "w51",
+    "dutch": "de klas",
+    "german": "die Klasse",
+    "category": "school",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Er zitten vijfentwintig leerlingen in mijn klas.",
+        "german": "In meiner Klasse sitzen fünfundzwanzig Schüler."
+      }
+    ]
+  },
+  {
+    "id": "w52",
+    "dutch": "het rapport",
+    "german": "das Zeugnis",
+    "category": "school",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Aan het einde van het semester krijg ik een rapport.",
+        "german": "Am Ende des Semesters bekomme ich ein Zeugnis."
+      }
+    ]
+  },
+  {
+    "id": "w53",
+    "dutch": "het brood",
+    "german": "das Brot",
+    "category": "eten_en_drinken",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik eet elke ochtend twee boterhammen brood voor school.",
+        "german": "Jeden Morgen esse ich zwei Scheiben Brot vor der Schule."
+      }
+    ]
+  },
+  {
+    "id": "w54",
+    "dutch": "de kaas",
+    "german": "der Käse",
+    "category": "eten_en_drinken",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik neem kaas op mijn boterham mee naar school.",
+        "german": "Ich nehme Käse auf meinem Brot mit in die Schule."
+      }
+    ]
+  },
+  {
+    "id": "w55",
+    "dutch": "de melk",
+    "german": "die Milch",
+    "category": "eten_en_drinken",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Op school drinken we elke dag melk tijdens de pauze.",
+        "german": "In der Schule trinken wir jeden Tag Milch in der Pause."
+      }
+    ]
+  },
+  {
+    "id": "w56",
+    "dutch": "het water",
+    "german": "das Wasser",
+    "category": "eten_en_drinken",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik neem altijd een fles water mee naar school.",
+        "german": "Ich nehme immer eine Flasche Wasser mit in die Schule."
+      }
+    ]
+  },
+  {
+    "id": "w57",
+    "dutch": "de appel",
+    "german": "der Apfel",
+    "category": "eten_en_drinken",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn moeder geeft me elke dag een appel als tussendoortje.",
+        "german": "Meine Mutter gibt mir jeden Tag einen Apfel als Snack."
+      }
+    ]
+  },
+  {
+    "id": "w58",
+    "dutch": "de aardappel",
+    "german": "die Kartoffel",
+    "category": "eten_en_drinken",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "We eten vanavond aardappelen met groente.",
+        "german": "Heute Abend essen wir Kartoffeln mit Gemüse."
+      }
+    ]
+  },
+  {
+    "id": "w59",
+    "dutch": "het vlees",
+    "german": "das Fleisch",
+    "category": "eten_en_drinken",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "In de kantine is er ook vlees als warme optie.",
+        "german": "In der Kantine gibt es auch Fleisch als warme Option."
+      }
+    ]
+  },
+  {
+    "id": "w60",
+    "dutch": "de groente",
+    "german": "das Gemüse",
+    "category": "eten_en_drinken",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "De leraar zegt dat we elke dag groente moeten eten.",
+        "german": "Die Lehrerin sagt, dass wir jeden Tag Gemüse essen sollen."
+      }
+    ]
+  },
+  {
+    "id": "w61",
+    "dutch": "het ei",
+    "german": "das Ei",
+    "category": "eten_en_drinken",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "In de biologieles bestuderen we hoe een ei eruit ziet.",
+        "german": "Im Biologieunterricht untersuchen wir, wie ein Ei aussieht."
+      }
+    ]
+  },
+  {
+    "id": "w62",
+    "dutch": "de soep",
+    "german": "die Suppe",
+    "category": "eten_en_drinken",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Op koude dagen eet ik soep in de kantine.",
+        "german": "An kalten Tagen esse ich Suppe in der Kantine."
+      }
+    ]
+  },
+  {
+    "id": "w63",
+    "dutch": "gaan",
+    "german": "gehen",
+    "category": "werkwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik ga elke dag te voet naar school.",
+        "german": "Ich gehe jeden Tag zu Fuß zur Schule."
+      }
+    ]
+  },
+  {
+    "id": "w64",
+    "dutch": "komen",
+    "german": "kommen",
+    "category": "werkwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn vriend komt me ophalen voor school.",
+        "german": "Mein Freund kommt mich vor der Schule abholen."
+      }
+    ]
+  },
+  {
+    "id": "w65",
+    "dutch": "slapen",
+    "german": "schlafen",
+    "category": "werkwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Je moet goed slapen voor een toets.",
+        "german": "Du musst gut schlafen vor einer Prüfung."
+      }
+    ]
+  },
+  {
+    "id": "w66",
+    "dutch": "eten",
+    "german": "essen",
+    "category": "werkwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "We eten samen in de kantine tijdens de pauze.",
+        "german": "Wir essen zusammen in der Kantine während der Pause."
+      }
+    ]
+  },
+  {
+    "id": "w67",
+    "dutch": "drinken",
+    "german": "trinken",
+    "category": "werkwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Drink genoeg water tijdens de schooldag.",
+        "german": "Trink genug Wasser während des Schultages."
+      }
+    ]
+  },
+  {
+    "id": "w68",
+    "dutch": "spreken",
+    "german": "sprechen",
+    "category": "werkwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "In de taalles leren we Duits spreken.",
+        "german": "Im Sprachunterricht lernen wir Deutsch zu sprechen."
+      }
+    ]
+  },
+  {
+    "id": "w69",
+    "dutch": "schrijven",
+    "german": "schreiben",
+    "category": "werkwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "We schrijven een opstel over onze zomervakantie.",
+        "german": "Wir schreiben einen Aufsatz über unsere Sommerferien."
+      }
+    ]
+  },
+  {
+    "id": "w70",
+    "dutch": "lezen",
+    "german": "lesen",
+    "category": "werkwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "De leraar vraagt ons thuis een hoofdstuk te lezen.",
+        "german": "Der Lehrer bittet uns, zu Hause ein Kapitel zu lesen."
+      }
+    ]
+  },
+  {
+    "id": "w71",
+    "dutch": "spelen",
+    "german": "spielen",
+    "category": "werkwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Tijdens de pauze spelen we voetbal op het schoolplein.",
+        "german": "In der Pause spielen wir Fußball auf dem Schulhof."
+      }
+    ]
+  },
+  {
+    "id": "w72",
+    "dutch": "werken",
+    "german": "arbeiten",
+    "category": "werkwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "We werken in groepjes aan een project.",
+        "german": "Wir arbeiten in Gruppen an einem Projekt."
+      }
+    ]
+  },
+  {
+    "id": "w73",
+    "dutch": "leren",
+    "german": "lernen",
+    "category": "werkwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik leer elke avond nieuwe woorden voor Duits.",
+        "german": "Ich lerne jeden Abend neue Wörter für Deutsch."
+      }
+    ]
+  },
+  {
+    "id": "w74",
+    "dutch": "kopen",
+    "german": "kaufen",
+    "category": "werkwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik koop een nieuw schrift in de schoolwinkel.",
+        "german": "Ich kaufe ein neues Heft im Schulladen."
+      }
+    ]
+  },
+  {
+    "id": "w75",
+    "dutch": "maken",
+    "german": "machen",
+    "category": "werkwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "We maken een poster voor de klas.",
+        "german": "Wir machen ein Poster für die Klasse."
+      }
+    ]
+  },
+  {
+    "id": "w76",
+    "dutch": "horen",
+    "german": "hören",
+    "category": "werkwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "In de muziekles leren we goed luisteren en horen.",
+        "german": "Im Musikunterricht lernen wir gut zuzuhören und zu hören."
+      }
+    ]
+  },
+  {
+    "id": "w77",
+    "dutch": "zien",
+    "german": "sehen",
+    "category": "werkwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik zie mijn vrienden elke dag op school.",
+        "german": "Ich sehe meine Freunde jeden Tag in der Schule."
+      }
+    ]
+  },
+  {
+    "id": "w78",
+    "dutch": "groot",
+    "german": "groß",
+    "category": "bijvoeglijke_naamwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Onze school is groot en heeft veel lokalen.",
+        "german": "Unsere Schule ist groß und hat viele Klassenzimmer."
+      }
+    ]
+  },
+  {
+    "id": "w79",
+    "dutch": "klein",
+    "german": "klein",
+    "category": "bijvoeglijke_naamwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn schrift is klein, maar ik schrijf er veel in.",
+        "german": "Mein Heft ist klein, aber ich schreibe viel darin."
+      }
+    ]
+  },
+  {
+    "id": "w80",
+    "dutch": "mooi",
+    "german": "schön",
+    "category": "bijvoeglijke_naamwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "De leraar zegt dat ik een mooie tekening heb gemaakt.",
+        "german": "Die Lehrerin sagt, dass ich eine schöne Zeichnung gemacht habe."
+      }
+    ]
+  },
+  {
+    "id": "w81",
+    "dutch": "snel",
+    "german": "schnell",
+    "category": "bijvoeglijke_naamwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Hij rekent snel en is altijd als eerste klaar.",
+        "german": "Er rechnet schnell und ist immer als Erster fertig."
+      }
+    ]
+  },
+  {
+    "id": "w82",
+    "dutch": "langzaam",
+    "german": "langsam",
+    "category": "bijvoeglijke_naamwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "De leraar spreekt langzaam zodat we alles begrijpen.",
+        "german": "Die Lehrerin spricht langsam, damit wir alles verstehen."
+      }
+    ]
+  },
+  {
+    "id": "w83",
+    "dutch": "jong",
+    "german": "jung",
+    "category": "bijvoeglijke_naamwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Onze nieuwe leraar is erg jong.",
+        "german": "Unser neuer Lehrer ist sehr jung."
+      }
+    ]
+  },
+  {
+    "id": "w84",
+    "dutch": "oud",
+    "german": "alt",
+    "category": "bijvoeglijke_naamwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn schrift is oud en ik moet een nieuw kopen.",
+        "german": "Mein Heft ist alt und ich muss ein neues kaufen."
+      }
+    ]
+  },
+  {
+    "id": "w85",
+    "dutch": "goed",
+    "german": "gut",
+    "category": "bijvoeglijke_naamwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik heb een goed cijfer gehaald voor mijn toets.",
+        "german": "Ich habe eine gute Note für meine Prüfung bekommen."
+      }
+    ]
+  },
+  {
+    "id": "w86",
+    "dutch": "slecht",
+    "german": "schlecht",
+    "category": "bijvoeglijke_naamwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik voel me slecht en kan vandaag niet naar school.",
+        "german": "Ich fühle mich schlecht und kann heute nicht in die Schule."
+      }
+    ]
+  },
+  {
+    "id": "w87",
+    "dutch": "nieuw",
+    "german": "neu",
+    "category": "bijvoeglijke_naamwoorden",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Aan het begin van het jaar krijgen we nieuwe boeken.",
+        "german": "Am Anfang des Jahres bekommen wir neue Bücher."
+      }
+    ]
+  },
+  {
+    "id": "w88",
+    "dutch": "de hond",
+    "german": "der Hund",
+    "category": "dieren",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "In het verhaal van de les is een hond de hoofdpersonage.",
+        "german": "In der Geschichte des Unterrichts ist ein Hund die Hauptfigur."
+      }
+    ]
+  },
+  {
+    "id": "w89",
+    "dutch": "de kat",
+    "german": "die Katze",
+    "category": "dieren",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "We hebben een opstel geschreven over mijn kat.",
+        "german": "Wir haben einen Aufsatz über meine Katze geschrieben."
+      }
+    ]
+  },
+  {
+    "id": "w90",
+    "dutch": "het paard",
+    "german": "das Pferd",
+    "category": "dieren",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "In biologie leren we hoe een paard is gebouwd.",
+        "german": "Im Biologieunterricht lernen wir, wie ein Pferd aufgebaut ist."
+      }
+    ]
+  },
+  {
+    "id": "w91",
+    "dutch": "de vogel",
+    "german": "der Vogel",
+    "category": "dieren",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "De leraar laat ons een vogel tekenen in de kunstles.",
+        "german": "Die Lehrerin lässt uns im Kunstunterricht einen Vogel zeichnen."
+      }
+    ]
+  },
+  {
+    "id": "w92",
+    "dutch": "de vis",
+    "german": "der Fisch",
+    "category": "dieren",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "We bestuderen de vis in de biologieles.",
+        "german": "Wir untersuchen den Fisch im Biologieunterricht."
+      }
+    ]
+  },
+  {
+    "id": "w93",
+    "dutch": "het huis",
+    "german": "das Haus",
+    "category": "huis",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "In het leesboek woont de familie in een groot huis.",
+        "german": "Im Lesebuch wohnt die Familie in einem großen Haus."
+      }
+    ]
+  },
+  {
+    "id": "w94",
+    "dutch": "de kamer",
+    "german": "das Zimmer",
+    "category": "huis",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik doe mijn huiswerk op mijn kamer.",
+        "german": "Ich mache meine Hausaufgaben in meinem Zimmer."
+      }
+    ]
+  },
+  {
+    "id": "w95",
+    "dutch": "de keuken",
+    "german": "die Küche",
+    "category": "huis",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "We eten 's ochtends in de keuken voor we naar school gaan.",
+        "german": "Wir frühstücken morgens in der Küche, bevor wir zur Schule gehen."
+      }
+    ]
+  },
+  {
+    "id": "w96",
+    "dutch": "de deur",
+    "german": "die Tür",
+    "category": "huis",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Doe de deur van het klaslokaal achter je dicht.",
+        "german": "Mach die Tür des Klassenzimmers hinter dir zu."
+      }
+    ]
+  },
+  {
+    "id": "w97",
+    "dutch": "het raam",
+    "german": "das Fenster",
+    "category": "huis",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "De leraar opent het raam omdat het warm is in de klas.",
+        "german": "Die Lehrerin öffnet das Fenster, weil es im Klassenzimmer warm ist."
+      }
+    ]
+  },
+  {
+    "id": "w98",
+    "dutch": "de broek",
+    "german": "die Hose",
+    "category": "kleding",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik draag een blauwe broek naar school.",
+        "german": "Ich trage eine blaue Hose zur Schule."
+      }
+    ]
+  },
+  {
+    "id": "w99",
+    "dutch": "de trui",
+    "german": "der Pullover",
+    "category": "kleding",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik trek mijn trui aan omdat het koud is in de klas.",
+        "german": "Ich ziehe meinen Pullover an, weil es im Klassenzimmer kalt ist."
+      }
+    ]
+  },
+  {
+    "id": "w100",
+    "dutch": "de jas",
+    "german": "die Jacke",
+    "category": "kleding",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Vergeet je jas niet mee te nemen, want het regent vandaag.",
+        "german": "Vergiss deine Jacke nicht, denn heute regnet es."
+      }
+    ]
+  },
+  {
+    "id": "w101",
+    "dutch": "de schoen",
+    "german": "der Schuh",
+    "category": "kleding",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik heb nieuwe schoenen gekocht voor het schooljaar.",
+        "german": "Ich habe neue Schuhe für das Schuljahr gekauft."
+      }
+    ]
+  },
+  {
+    "id": "w102",
+    "dutch": "het weer",
+    "german": "das Wetter",
+    "category": "weer",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "We praten over het weer aan het begin van de les.",
+        "german": "Wir reden über das Wetter zu Beginn des Unterrichts."
+      }
+    ]
+  },
+  {
+    "id": "w103",
+    "dutch": "de regen",
+    "german": "der Regen",
+    "category": "weer",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Door de regen kunnen we niet buiten spelen tijdens de pauze.",
+        "german": "Wegen des Regens können wir in der Pause nicht draußen spielen."
+      }
+    ]
+  },
+  {
+    "id": "w104",
+    "dutch": "de sneeuw",
+    "german": "der Schnee",
+    "category": "weer",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Als er sneeuw ligt, bouwen we een sneeuwman op het schoolplein.",
+        "german": "Wenn Schnee liegt, bauen wir einen Schneemann auf dem Schulhof."
+      }
+    ]
+  },
+  {
+    "id": "w105",
+    "dutch": "de zon",
+    "german": "die Sonne",
+    "category": "weer",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Als de zon schijnt, zitten we buiten tijdens de pauze.",
+        "german": "Wenn die Sonne scheint, sitzen wir in der Pause draußen."
+      }
+    ]
+  },
+  {
+    "id": "w106",
+    "dutch": "de wind",
+    "german": "der Wind",
+    "category": "weer",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "De wind blaast mijn papieren weg op het schoolplein.",
+        "german": "Der Wind bläst meine Zettel auf dem Schulhof weg."
+      }
+    ]
+  },
+  {
+    "id": "w107",
+    "dutch": "de auto",
+    "german": "das Auto",
+    "category": "vervoer",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Mijn moeder brengt me elke dag met de auto naar school.",
+        "german": "Meine Mutter bringt mich jeden Tag mit dem Auto zur Schule."
+      }
+    ]
+  },
+  {
+    "id": "w108",
+    "dutch": "de trein",
+    "german": "der Zug",
+    "category": "vervoer",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik neem de trein naar mijn school in de stad.",
+        "german": "Ich nehme den Zug zur Schule in der Stadt."
+      }
+    ]
+  },
+  {
+    "id": "w109",
+    "dutch": "de bus",
+    "german": "der Bus",
+    "category": "vervoer",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Veel leerlingen gaan met de bus naar school.",
+        "german": "Viele Schüler fahren mit dem Bus zur Schule."
+      }
+    ]
+  },
+  {
+    "id": "w110",
+    "dutch": "de fiets",
+    "german": "das Fahrrad",
+    "category": "vervoer",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "Ik ga elke dag met de fiets naar school.",
+        "german": "Ich fahre jeden Tag mit dem Fahrrad zur Schule."
+      }
+    ]
+  },
+  {
+    "id": "w111",
+    "dutch": "het vliegtuig",
+    "german": "das Flugzeug",
+    "category": "vervoer",
+    "difficulty": "beginner",
+    "examples": [
+      {
+        "dutch": "In de aardrijkskundeles leren we over landen die je met het vliegtuig bereikt.",
+        "german": "Im Erdkundeunterricht lernen wir über Länder, die man mit dem Flugzeug erreicht."
+      }
+    ]
+  }
+]

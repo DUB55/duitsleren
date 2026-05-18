@@ -1,0 +1,454 @@
+[
+  {
+    "id": "haben-sein-werden",
+    "title": "haben, sein en werden in de tegenwoordige tijd (Präsens)",
+    "description": "haben (hebben), sein (zijn) en werden (worden/zullen) zijn drie zeer veelgebruikte onregelmatige werkwoorden in het Duits. Ze wijken sterk af van het gewone vervoegingspatroon en moeten daarom uit het hoofd geleerd worden.",
+    "difficulty": "beginner",
+    "tables": [
+      {
+        "title": "haben (hebben)",
+        "headers": ["Persoon", "Vervoeging"],
+        "rows": [
+          ["ich", "habe"],
+          ["du", "hast"],
+          ["er/sie/es", "hat"],
+          ["wir", "haben"],
+          ["ihr", "habt"],
+          ["sie/Sie", "haben"]
+        ]
+      },
+      {
+        "title": "sein (zijn)",
+        "headers": ["Persoon", "Vervoeging"],
+        "rows": [
+          ["ich", "bin"],
+          ["du", "bist"],
+          ["er/sie/es", "ist"],
+          ["wir", "sind"],
+          ["ihr", "seid"],
+          ["sie/Sie", "sind"]
+        ]
+      },
+      {
+        "title": "werden (worden / zullen)",
+        "headers": ["Persoon", "Vervoeging"],
+        "rows": [
+          ["ich", "werde"],
+          ["du", "wirst"],
+          ["er/sie/es", "wird"],
+          ["wir", "werden"],
+          ["ihr", "werdet"],
+          ["sie/Sie", "werden"]
+        ]
+      }
+    ],
+    "examples": [
+      { "german": "Ich habe einen Hund.", "dutch": "Ik heb een hond." },
+      { "german": "Wir haben Zeit.", "dutch": "Wij hebben tijd." },
+      { "german": "Ich bin müde.", "dutch": "Ik ben moe." },
+      { "german": "Er wird Arzt.", "dutch": "Hij wordt dokter." }
+    ],
+    "exercises": [
+      {
+        "question": "Welke vorm van 'haben' hoort bij 'du'?",
+        "options": ["habe", "hast", "hat", "haben"],
+        "correctAnswer": "hast",
+        "explanation": "Bij 'du' hoort de vorm 'hast'. Dit is de du-vorm van haben en moet uit het hoofd geleerd worden, want ze wijkt af van de gewone uitgang -st (du hab-st → hast)."
+      },
+      {
+        "question": "Welke vorm van 'sein' hoort bij 'wir'?",
+        "options": ["bin", "bist", "sind", "seid"],
+        "correctAnswer": "sind",
+        "explanation": "Bij 'wir' hoort de vorm 'sind'. De wir-vorm van sein wijkt volledig af van de stam en moet uit het hoofd geleerd worden."
+      },
+      {
+        "question": "Welke vorm van 'werden' hoort bij 'er'?",
+        "options": ["werde", "wirst", "wird", "werden"],
+        "correctAnswer": "wird",
+        "explanation": "Bij 'er/sie/es' hoort de vorm 'wird'. De er/sie/es-vorm van werden is onregelmatig en moet uit het hoofd geleerd worden."
+      }
+    ]
+  },
+  {
+    "id": "regular-verbs",
+    "title": "Regelmatige werkwoorden (FE-esttenten-regel)",
+    "description": "Bij regelmatige werkwoorden haal je eerst de uitgang -en af om de stam (het stamwoord) te vinden. Daarna voeg je de juiste uitgang toe. Het ezelsbruggetje FE-esttenten helpt je de uitgangen te onthouden: -e (ich), -st (du), -t (er/sie/es), -en (wir), -t (ihr), -en (sie/Sie).",
+    "difficulty": "beginner",
+    "tables": [
+      {
+        "title": "Uitgangen regelmatige werkwoorden (voorbeeld: machen → stam: mach-)",
+        "headers": ["Persoon", "Uitgang", "Voorbeeld"],
+        "rows": [
+          ["ich", "-e", "ich mache"],
+          ["du", "-st", "du machst"],
+          ["er/sie/es", "-t", "er macht"],
+          ["wir", "-en", "wir machen"],
+          ["ihr", "-t", "ihr macht"],
+          ["sie/Sie", "-en", "sie machen"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "german": "lernen: ich lerne, du lernst, er lernt, wir lernen, ihr lernt, sie lernen",
+        "dutch": "leren: ik leer, jij leert, hij leert, wij leren, jullie leren, zij leren",
+        "explanation": "Regelmatig werkwoord: stam = lern-"
+      },
+      {
+        "german": "spielen: ich spiele, du spielst, er spielt, wir spielen, ihr spielt, sie spielen",
+        "dutch": "spelen: ik speel, jij speelt, hij speelt, wij spelen, jullie spelen, zij spelen",
+        "explanation": "Regelmatig werkwoord: stam = spiel-"
+      },
+      {
+        "german": "Du machst deine Hausaufgaben.",
+        "dutch": "Jij maakt je huiswerk."
+      },
+      {
+        "german": "Wir lernen Deutsch.",
+        "dutch": "Wij leren Duits."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "Wat is de juiste vorm van 'spielen' voor 'du'?",
+        "options": ["spielen", "spiele", "spielst", "spielt"],
+        "correctAnswer": "spielst",
+        "explanation": "De stam van 'spielen' is 'spiel-'. Bij 'du' voeg je de uitgang -st toe, dus: du spielst."
+      },
+      {
+        "question": "Wat is de juiste vorm van 'lernen' voor 'wir'?",
+        "options": ["lernt", "lernte", "lerne", "lernen"],
+        "correctAnswer": "lernen",
+        "explanation": "De stam van 'lernen' is 'lern-'. Bij 'wir' voeg je de uitgang -en toe, dus: wir lernen."
+      },
+      {
+        "question": "Hoe vind je de stam van een werkwoord?",
+        "options": [
+          "Je haalt -en af van het werkwoord",
+          "Je haalt -t af van het werkwoord",
+          "Je haalt -e af van het werkwoord",
+          "Je haalt -st af van het werkwoord"
+        ],
+        "correctAnswer": "Je haalt -en af van het werkwoord",
+        "explanation": "De stam van een werkwoord vind je door de uitgang -en af te halen. Bijvoorbeeld: machen → mach-, lernen → lern-, spielen → spiel-."
+      }
+    ]
+  },
+  {
+    "id": "prepositions",
+    "title": "Vaste voorzetsels: 3e en 4e naamval",
+    "description": "Sommige voorzetsels vragen altijd de 3e naamval (Dativ), andere altijd de 4e naamval (Akkusativ). Gebruik het ezelsbruggetje ABMNSVZ om de Dativ-voorzetsels te onthouden: aus, bei, mit, nach, seit, von, zu. Gebruik DFGOU voor de Akkusativ-voorzetsels: durch, für, gegen, ohne, um.",
+    "difficulty": "intermediate",
+    "tables": [
+      {
+        "title": "Voorzetsels met altijd 3e naamval (Dativ) — ABMNSVZ",
+        "headers": ["Voorzetsel", "Betekenis"],
+        "rows": [
+          ["aus", "uit"],
+          ["bei", "bij"],
+          ["mit", "met"],
+          ["nach", "naar / na"],
+          ["seit", "sinds"],
+          ["von", "van"],
+          ["zu", "naar"]
+        ]
+      },
+      {
+        "title": "Voorzetsels met altijd 4e naamval (Akkusativ) — DFGOU",
+        "headers": ["Voorzetsel", "Betekenis"],
+        "rows": [
+          ["durch", "door"],
+          ["für", "voor"],
+          ["gegen", "tegen"],
+          ["ohne", "zonder"],
+          ["um", "om"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "german": "Ich fahre mit dem Fahrrad.",
+        "dutch": "Ik rijd met de fiets.",
+        "explanation": "'mit' vraagt altijd de 3e naamval (Dativ)"
+      },
+      {
+        "german": "Er kommt aus dem Haus.",
+        "dutch": "Hij komt uit het huis.",
+        "explanation": "'aus' vraagt altijd de 3e naamval (Dativ)"
+      },
+      {
+        "german": "Das Geschenk ist für den Lehrer.",
+        "dutch": "Het cadeau is voor de leraar.",
+        "explanation": "'für' vraagt altijd de 4e naamval (Akkusativ)"
+      },
+      {
+        "german": "Er kommt ohne seine Tasche.",
+        "dutch": "Hij komt zonder zijn tas.",
+        "explanation": "'ohne' vraagt altijd de 4e naamval (Akkusativ)"
+      }
+    ],
+    "exercises": [
+      {
+        "question": "Welk voorzetsel vraagt altijd de 3e naamval?",
+        "options": ["durch", "für", "mit", "um"],
+        "correctAnswer": "mit",
+        "explanation": "'mit' behoort tot de ABMNSVZ-groep en vraagt altijd de 3e naamval (Dativ). 'durch', 'für' en 'um' behoren tot DFGOU en vragen de 4e naamval."
+      },
+      {
+        "question": "Welke naamval vraagt het voorzetsel 'für'?",
+        "options": ["1e naamval", "2e naamval", "3e naamval", "4e naamval"],
+        "correctAnswer": "4e naamval",
+        "explanation": "'für' behoort tot de DFGOU-groep en vraagt altijd de 4e naamval (Akkusativ)."
+      },
+      {
+        "question": "Welk voorzetsel behoort NIET tot de ABMNSVZ-groep?",
+        "options": ["aus", "bei", "durch", "von"],
+        "correctAnswer": "durch",
+        "explanation": "'durch' behoort tot de DFGOU-groep en vraagt de 4e naamval (Akkusativ), niet de 3e naamval. 'aus', 'bei' en 'von' behoren wel tot ABMNSVZ."
+      }
+    ]
+  },
+  {
+    "id": "sentence-analysis",
+    "title": "Zinsontleden: 3e en 4e naamval",
+    "description": "Om de naamval van zinsdelen te bepalen, volg je vier stappen. 1) Zoek het persoonsvorm (PV): het vervoegde werkwoord. 2) Zoek het onderwerp (OW) door te vragen: 'Wie + werkwoord?' → 1e naamval (Nominativ). 3) Zoek het meewerkend voorwerp (MV) door te vragen: 'Aan wie / voor wie?' → 3e naamval (Dativ). 4) Zoek het lijdend voorwerp (LV) door te vragen: 'Wie/wat + werkwoord + onderwerp?' → 4e naamval (Akkusativ).",
+    "difficulty": "intermediate",
+    "tables": [
+      {
+        "title": "Overzicht zinsdelen en naamvallen",
+        "headers": ["Zinsdeel", "Vraag", "Naamval"],
+        "rows": [
+          ["Onderwerp (OW)", "Wie + werkwoord?", "1e naamval (Nominativ)"],
+          [
+            "Meewerkend voorwerp (MV)",
+            "Aan wie / voor wie?",
+            "3e naamval (Dativ)"
+          ],
+          [
+            "Lijdend voorwerp (LV)",
+            "Wie/wat + werkwoord + onderwerp?",
+            "4e naamval (Akkusativ)"
+          ]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "german": "Der Mann gibt dem Kind den Ball.",
+        "dutch": "De man geeft het kind de bal.",
+        "explanation": "Der Mann = OW (1e naamval), dem Kind = MV (3e naamval), den Ball = LV (4e naamval)"
+      },
+      {
+        "german": "Ich gebe dem Lehrer das Buch.",
+        "dutch": "Ik geef de leraar het boek.",
+        "explanation": "Ich = OW (1e naamval), dem Lehrer = MV (3e naamval), das Buch = LV (4e naamval)"
+      },
+      {
+        "german": "Sie schenkt ihrer Mutter Blumen.",
+        "dutch": "Zij schenkt haar moeder bloemen.",
+        "explanation": "Sie = OW (1e naamval), ihrer Mutter = MV (3e naamval), Blumen = LV (4e naamval)"
+      },
+      {
+        "german": "Er zeigt dem Schüler die Aufgabe.",
+        "dutch": "Hij laat de leerling de opdracht zien.",
+        "explanation": "Er = OW (1e naamval), dem Schüler = MV (3e naamval), die Aufgabe = LV (4e naamval)"
+      }
+    ],
+    "exercises": [
+      {
+        "question": "Welke vraag stel je om het meewerkend voorwerp (MV) te vinden?",
+        "options": [
+          "Wie + werkwoord?",
+          "Aan wie / voor wie?",
+          "Wie/wat + werkwoord + onderwerp?",
+          "Waar + werkwoord?"
+        ],
+        "correctAnswer": "Aan wie / voor wie?",
+        "explanation": "Het meewerkend voorwerp (MV) vind je door te vragen: 'Aan wie / voor wie?' Het MV staat in de 3e naamval (Dativ)."
+      },
+      {
+        "question": "In de zin 'Der Lehrer gibt dem Schüler ein Buch.' — welke naamval heeft 'dem Schüler'?",
+        "options": ["1e naamval", "2e naamval", "3e naamval", "4e naamval"],
+        "correctAnswer": "3e naamval",
+        "explanation": "'dem Schüler' is het meewerkend voorwerp (MV). Je vraagt: 'Aan wie geeft de leraar een boek?' → aan de leerling. Het MV staat altijd in de 3e naamval (Dativ)."
+      },
+      {
+        "question": "In de zin 'Ich gebe dem Kind den Ball.' — welke naamval heeft 'den Ball'?",
+        "options": ["1e naamval", "2e naamval", "3e naamval", "4e naamval"],
+        "correctAnswer": "4e naamval",
+        "explanation": "'den Ball' is het lijdend voorwerp (LV). Je vraagt: 'Wat geef ik aan het kind?' → de bal. Het LV staat altijd in de 4e naamval (Akkusativ)."
+      }
+    ]
+  },
+  {
+    "id": "personal-pronouns",
+    "title": "Persoonlijke voornaamwoorden in de 3e en 4e naamval",
+    "description": "Persoonlijke voornaamwoorden krijgen een andere vorm afhankelijk van de naamval. In de 3e naamval (Dativ) en de 4e naamval (Akkusativ) veranderen de vormen ten opzichte van de 1e naamval (Nominativ). Deze vormen moeten uit het hoofd geleerd worden.",
+    "difficulty": "intermediate",
+    "tables": [
+      {
+        "title": "3e naamval (Dativ)",
+        "headers": ["Nominativ", "Dativ"],
+        "rows": [
+          ["ich", "mir"],
+          ["du", "dir"],
+          ["er", "ihm"],
+          ["sie", "ihr"],
+          ["es", "ihm"],
+          ["wir", "uns"],
+          ["ihr", "euch"],
+          ["sie", "ihnen"],
+          ["Sie", "Ihnen"]
+        ]
+      },
+      {
+        "title": "4e naamval (Akkusativ)",
+        "headers": ["Nominativ", "Akkusativ"],
+        "rows": [
+          ["ich", "mich"],
+          ["du", "dich"],
+          ["er", "ihn"],
+          ["sie", "sie"],
+          ["es", "es"],
+          ["wir", "uns"],
+          ["ihr", "euch"],
+          ["sie", "sie"],
+          ["Sie", "Sie"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "german": "Er hilft mir.",
+        "dutch": "Hij helpt mij.",
+        "explanation": "'mir' is de Dativ-vorm van 'ich'"
+      },
+      {
+        "german": "Ich gebe dir das Buch.",
+        "dutch": "Ik geef jou het boek.",
+        "explanation": "'dir' is de Dativ-vorm van 'du'"
+      },
+      {
+        "german": "Er sieht mich.",
+        "dutch": "Hij ziet mij.",
+        "explanation": "'mich' is de Akkusativ-vorm van 'ich'"
+      },
+      {
+        "german": "Ich höre dich.",
+        "dutch": "Ik hoor jou.",
+        "explanation": "'dich' is de Akkusativ-vorm van 'du'"
+      }
+    ],
+    "exercises": [
+      {
+        "question": "Wat is de Dativ-vorm van 'ich'?",
+        "options": ["mich", "mir", "mein", "meinen"],
+        "correctAnswer": "mir",
+        "explanation": "De Dativ-vorm van 'ich' is 'mir'. 'mich' is de Akkusativ-vorm. 'mein' en 'meinen' zijn bezittelijke voornaamwoorden."
+      },
+      {
+        "question": "Wat is de Akkusativ-vorm van 'er'?",
+        "options": ["ihm", "ihn", "ihr", "es"],
+        "correctAnswer": "ihn",
+        "explanation": "De Akkusativ-vorm van 'er' is 'ihn'. 'ihm' is de Dativ-vorm van 'er'. Let op het verschil: Dativ = ihm, Akkusativ = ihn."
+      },
+      {
+        "question": "Welke zin is correct? (helfen vraagt Dativ)",
+        "options": [
+          "Er hilft mich.",
+          "Er hilft mir.",
+          "Er hilft ich.",
+          "Er hilft meinen."
+        ],
+        "correctAnswer": "Er hilft mir.",
+        "explanation": "Het werkwoord 'helfen' vraagt altijd de 3e naamval (Dativ). De Dativ-vorm van 'ich' is 'mir', dus de correcte zin is: Er hilft mir."
+      }
+    ]
+  },
+  {
+    "id": "possessive-pronouns",
+    "title": "Bezittelijke voornaamwoorden in de 3e en 4e naamval",
+    "description": "Bezittelijke voornaamwoorden (mein, dein, sein, ihr, unser, euer, ihr/Ihr) veranderen van uitgang afhankelijk van de naamval en het geslacht van het zelfstandig naamwoord. In de 4e naamval (Akkusativ) krijgen mannelijke zelfstandige naamwoorden de uitgang -en. In de 3e naamval (Dativ) zijn de uitgangen doorgaans -em (mannelijk en onzijdig), -er (vrouwelijk) en -en (meervoud).",
+    "difficulty": "intermediate",
+    "tables": [
+      {
+        "title": "Stamvormen bezittelijke voornaamwoorden",
+        "headers": ["Persoon", "Stam"],
+        "rows": [
+          ["ich", "mein"],
+          ["du", "dein"],
+          ["er", "sein"],
+          ["sie", "ihr"],
+          ["es", "sein"],
+          ["wir", "unser"],
+          ["ihr", "euer"],
+          ["sie", "ihr"],
+          ["Sie", "Ihr"]
+        ]
+      },
+      {
+        "title": "4e naamval (Akkusativ) — alleen mannelijk verandert",
+        "headers": ["Nominativ", "Akkusativ"],
+        "rows": [
+          ["mein Hund", "meinen Hund"],
+          ["dein Hund", "deinen Hund"],
+          ["sein Hund", "seinen Hund"],
+          ["meine Tasche", "meine Tasche"],
+          ["mein Buch", "mein Buch"]
+        ]
+      },
+      {
+        "title": "3e naamval (Dativ)",
+        "headers": ["Geslacht", "Uitgang", "Voorbeeld"],
+        "rows": [
+          ["mannelijk", "-em", "meinem Vater"],
+          ["onzijdig", "-em", "meinem Kind"],
+          ["vrouwelijk", "-er", "meiner Mutter"],
+          ["meervoud", "-en", "meinen Freunden"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "german": "Ich helfe meinem Vater.",
+        "dutch": "Ik help mijn vader.",
+        "explanation": "'meinem' = Dativ mannelijk (mein + -em)"
+      },
+      {
+        "german": "Sie schreibt ihrer Mutter.",
+        "dutch": "Zij schrijft haar moeder.",
+        "explanation": "'ihrer' = Dativ vrouwelijk (ihr + -er)"
+      },
+      {
+        "german": "Er sieht seinen Hund.",
+        "dutch": "Hij ziet zijn hond.",
+        "explanation": "'seinen' = Akkusativ mannelijk (sein + -en)"
+      },
+      {
+        "german": "Wir helfen unseren Freunden.",
+        "dutch": "Wij helpen onze vrienden.",
+        "explanation": "'unseren' = Dativ meervoud (unser + -en)"
+      }
+    ],
+    "exercises": [
+      {
+        "question": "Welke uitgang krijgt een mannelijk bezittelijk voornaamwoord in de 4e naamval (Akkusativ)?",
+        "options": ["-e", "-en", "-em", "-er"],
+        "correctAnswer": "-en",
+        "explanation": "In de 4e naamval (Akkusativ) krijgen mannelijke zelfstandige naamwoorden de uitgang -en. Bijvoorbeeld: mein Hund → meinen Hund, sein Vater → seinen Vater."
+      },
+      {
+        "question": "Welke vorm is correct? 'Ich helfe ___ Mutter.' (vrouwelijk, 3e naamval)",
+        "options": ["meine", "meinen", "meinem", "meiner"],
+        "correctAnswer": "meiner",
+        "explanation": "Bij een vrouwelijk zelfstandig naamwoord in de 3e naamval (Dativ) krijgt het bezittelijk voornaamwoord de uitgang -er. Dus: meiner Mutter."
+      },
+      {
+        "question": "Welke vorm is correct? 'Er kauft ___ Hund.' (mannelijk, 4e naamval)",
+        "options": ["sein", "seiner", "seinen", "seinem"],
+        "correctAnswer": "seinen",
+        "explanation": "In de 4e naamval (Akkusativ) krijgt een mannelijk bezittelijk voornaamwoord de uitgang -en. Dus: seinen Hund. 'sein' is de Nominativ-vorm, 'seinem' de Dativ-vorm."
+      }
+    ]
+  }
+]

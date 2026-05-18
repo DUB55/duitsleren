@@ -1,0 +1,523 @@
+[
+  {
+    "id": "articles",
+    "title": "De lidwoorden (der, die, das)",
+    "description": "In het Duits zijn er drie woordgeslachten: mannelijk, vrouwelijk en onzijdig. Bij elk geslacht hoort een ander bepaald lidwoord: 'der' (mannelijk), 'die' (vrouwelijk) en 'das' (onzijdig). In het Nederlands kennen we alleen 'de' en 'het', maar in het Duits moet je voor elk zelfstandig naamwoord het juiste geslacht leren. Het onbepaald lidwoord is 'ein' voor mannelijke en onzijdige woorden, en 'eine' voor vrouwelijke woorden. In het meervoud wordt altijd 'die' gebruikt als bepaald lidwoord; er is geen onbepaald lidwoord in het meervoud.",
+    "difficulty": "beginner",
+    "tables": [
+      {
+        "title": "Overzicht lidwoorden",
+        "headers": ["Geslacht", "Bepaald lidwoord", "Onbepaald lidwoord", "Voorbeeld"],
+        "rows": [
+          ["Mannelijk", "der", "ein", "der Mann (de man)"],
+          ["Vrouwelijk", "die", "eine", "die Frau (de vrouw)"],
+          ["Onzijdig", "das", "ein", "das Kind (het kind)"],
+          ["Meervoud", "die", "-", "die Männer (de mannen)"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "german": "Der Hund ist groß.",
+        "dutch": "De hond is groot.",
+        "explanation": "'Hund' (hond) is mannelijk, dus het bepaald lidwoord is 'der'."
+      },
+      {
+        "german": "Die Katze schläft.",
+        "dutch": "De kat slaapt.",
+        "explanation": "'Katze' (kat) is vrouwelijk, dus het bepaald lidwoord is 'die'."
+      },
+      {
+        "german": "Das Buch ist interessant.",
+        "dutch": "Het boek is interessant.",
+        "explanation": "'Buch' (boek) is onzijdig, dus het bepaald lidwoord is 'das'."
+      },
+      {
+        "german": "Die Kinder spielen im Garten.",
+        "dutch": "De kinderen spelen in de tuin.",
+        "explanation": "In het meervoud gebruik je altijd 'die' als bepaald lidwoord, ongeacht het geslacht."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "Welk bepaald lidwoord hoort bij 'Mann' (man)?",
+        "options": ["der", "die", "das", "den"],
+        "correctAnswer": "der",
+        "explanation": "'Mann' is een mannelijk zelfstandig naamwoord, dus het bepaald lidwoord is 'der'."
+      },
+      {
+        "question": "Welk bepaald lidwoord hoort bij 'Frau' (vrouw)?",
+        "options": ["der", "die", "das", "ein"],
+        "correctAnswer": "die",
+        "explanation": "'Frau' is een vrouwelijk zelfstandig naamwoord, dus het bepaald lidwoord is 'die'."
+      },
+      {
+        "question": "Welk onbepaald lidwoord hoort bij 'Kind' (kind)?",
+        "options": ["der", "die", "ein", "eine"],
+        "correctAnswer": "ein",
+        "explanation": "'Kind' is onzijdig. Het onbepaald lidwoord voor onzijdige woorden is 'ein', net als bij mannelijke woorden."
+      }
+    ]
+  },
+  {
+    "id": "present-tense",
+    "title": "De tegenwoordige tijd (das Präsens)",
+    "description": "In het Duits vorm je de tegenwoordige tijd door de stam van het werkwoord te nemen en daar de juiste uitgang aan toe te voegen. De stam krijg je door de uitgang '-en' van het infinitief af te halen (bijv. 'spielen' → stam 'spiel-'). De persoonlijke uitgangen zijn: -e (ich), -st (du), -t (er/sie/es), -en (wir), -t (ihr) en -en (sie/Sie). Let op: bij werkwoorden waarvan de stam eindigt op -t of -d wordt voor de uitspraak een extra -e- ingevoegd vóór de uitgang (bijv. 'arbeiten' → du arbeitest, er arbeitet).",
+    "difficulty": "beginner",
+    "tables": [
+      {
+        "title": "Vervoegingsuitgangen",
+        "headers": ["Persoonsvorm", "Uitgang", "Voorbeeld (spielen, stam: spiel-)"],
+        "rows": [
+          ["ich", "-e", "ich spiele"],
+          ["du", "-st", "du spielst"],
+          ["er/sie/es", "-t", "er spielt"],
+          ["wir", "-en", "wir spielen"],
+          ["ihr", "-t", "ihr spielt"],
+          ["sie/Sie", "-en", "sie spielen"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "german": "Ich spiele Fußball.",
+        "dutch": "Ik speel voetbal.",
+        "explanation": "Werkwoord 'spielen': stam 'spiel-' + uitgang '-e' → ich spiele."
+      },
+      {
+        "german": "Du lernst Deutsch.",
+        "dutch": "Jij leert Duits.",
+        "explanation": "Werkwoord 'lernen': stam 'lern-' + uitgang '-st' → du lernst."
+      },
+      {
+        "german": "Wir hören Musik.",
+        "dutch": "Wij luisteren naar muziek.",
+        "explanation": "Werkwoord 'hören': stam 'hör-' + uitgang '-en' → wir hören."
+      },
+      {
+        "german": "Er arbeitet jeden Tag.",
+        "dutch": "Hij werkt elke dag.",
+        "explanation": "Werkwoord 'arbeiten': de stam eindigt op '-t', dus de uitgang wordt '-et' voor leesbaarheid → er arbeitet."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "Hoe vervoeg je 'spielen' voor 'du'?",
+        "options": ["du spielen", "du spielst", "du spiele", "du spielt"],
+        "correctAnswer": "du spielst",
+        "explanation": "Voor 'du' voeg je de uitgang '-st' toe aan de stam 'spiel-': du spielst."
+      },
+      {
+        "question": "Welke vervoeging is correct voor 'lernen' met 'wir'?",
+        "options": ["wir lernst", "wir lernt", "wir lernen", "wir lerne"],
+        "correctAnswer": "wir lernen",
+        "explanation": "Voor 'wir' voeg je de uitgang '-en' toe aan de stam 'lern-': wir lernen."
+      },
+      {
+        "question": "Hoe vervoeg je 'arbeiten' voor 'er'?",
+        "options": ["er arbeit", "er arbeiten", "er arbeitet", "er arbeitest"],
+        "correctAnswer": "er arbeitet",
+        "explanation": "De stam van 'arbeiten' eindigt op '-t'. Voor de leesbaarheid voeg je '-et' toe in plaats van '-t': er arbeitet."
+      }
+    ]
+  },
+  {
+    "id": "past-participle",
+    "title": "Het voltooid deelwoord (das Partizip II)",
+    "description": "Het voltooid deelwoord (Partizip II) gebruik je om de voltooide tijd te vormen samen met het hulpwerkwoord 'haben' of 'sein'. Er zijn twee soorten werkwoorden: zwakke (regelmatige) werkwoorden vormen het Partizip II met 'ge-' + stam + '-t' (bijv. spielen → gespielt). Sterke (onregelmatige) werkwoorden hebben vaak een stamverandering en krijgen de uitgang '-en' (bijv. schwimmen → geschwommen). Werkwoorden met een onscheidbaar voorvoegsel (be-, ver-, er-, ent-, ge-, zer-) krijgen géén 'ge-' ervoor (bijv. besuchen → besucht). Werkwoorden op '-ieren' krijgen ook géén 'ge-' (bijv. fotografieren → fotografiert).",
+    "difficulty": "beginner",
+    "tables": [
+      {
+        "title": "Vorming van het Partizip II",
+        "headers": ["Type werkwoord", "Vorming", "Voorbeeld"],
+        "rows": [
+          ["Zwak (regelmatig)", "ge- + stam + -t", "spielen → gespielt"],
+          ["Sterk (onregelmatig)", "ge- + gewijzigde stam + (-en)", "schwimmen → geschwommen"],
+          ["Met be-/ver-/er- prefix", "stam + -t (geen ge-)", "besuchen → besucht"],
+          ["Werkwoorden op -ieren", "stam + -t (geen ge-)", "fotografieren → fotografiert"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "german": "Ich habe Fußball gespielt.",
+        "dutch": "Ik heb voetbal gespeeld.",
+        "explanation": "'Spielen' is een zwak werkwoord: ge- + stam 'spiel-' + -t = gespielt."
+      },
+      {
+        "german": "Sie hat das Buch gelesen.",
+        "dutch": "Zij heeft het boek gelezen.",
+        "explanation": "'Lesen' is een sterk werkwoord met stamverandering: ge- + 'les-' + -en = gelesen."
+      },
+      {
+        "german": "Wir haben unsere Oma besucht.",
+        "dutch": "Wij hebben onze oma bezocht.",
+        "explanation": "'Besuchen' heeft het onscheidbare voorvoegsel 'be-', dus geen 'ge-' ervoor: besucht."
+      },
+      {
+        "german": "Er hat das Konzert fotografiert.",
+        "dutch": "Hij heeft het concert gefotografeerd.",
+        "explanation": "'Fotografieren' eindigt op '-ieren', dus geen 'ge-' ervoor: fotografiert."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "Wat is het Partizip II van 'spielen'?",
+        "options": ["gespielt", "gespielen", "spielte", "gespelen"],
+        "correctAnswer": "gespielt",
+        "explanation": "'Spielen' is een zwak werkwoord: ge- + stam 'spiel-' + -t = gespielt."
+      },
+      {
+        "question": "Wat is het Partizip II van 'besuchen'?",
+        "options": ["gebesucht", "besucht", "besuchen", "besuchte"],
+        "correctAnswer": "besucht",
+        "explanation": "'Besuchen' heeft het onscheidbare voorvoegsel 'be-', dus er komt géén 'ge-' voor: besucht."
+      },
+      {
+        "question": "Wat is het Partizip II van 'schwimmen'?",
+        "options": ["geschwimmt", "schwimmt", "geschwommen", "geschwimmen"],
+        "correctAnswer": "geschwommen",
+        "explanation": "'Schwimmen' is een sterk werkwoord. Het Partizip II heeft een stamverandering en de uitgang '-en': geschwommen."
+      }
+    ]
+  },
+  {
+    "id": "sein-haben-werden",
+    "title": "De werkwoorden sein, haben en werden",
+    "description": "De werkwoorden 'sein' (zijn), 'haben' (hebben) en 'werden' (worden/zullen) zijn drie van de belangrijkste onregelmatige werkwoorden in het Duits. Ze worden ook gebruikt als hulpwerkwoord: 'haben' en 'sein' vormen samen met het Partizip II de voltooide tijd, en 'werden' wordt gebruikt om de toekomende tijd of de lijdende vorm te maken. Omdat deze werkwoorden heel vaak voorkomen en volledig onregelmatig zijn, is het essentieel om ze van buiten te leren.",
+    "difficulty": "beginner",
+    "tables": [
+      {
+        "title": "Vervoegingen van sein, haben en werden",
+        "headers": ["Persoonsvorm", "sein (zijn)", "haben (hebben)", "werden (worden/zullen)"],
+        "rows": [
+          ["ich", "bin", "habe", "werde"],
+          ["du", "bist", "hast", "wirst"],
+          ["er/sie/es", "ist", "hat", "wird"],
+          ["wir", "sind", "haben", "werden"],
+          ["ihr", "seid", "habt", "werdet"],
+          ["sie/Sie", "sind", "haben", "werden"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "german": "Ich bin müde.",
+        "dutch": "Ik ben moe.",
+        "explanation": "'Sein' voor 'ich' is 'bin'. Dit is volledig onregelmatig en moet je onthouden."
+      },
+      {
+        "german": "Er hat ein neues Fahrrad.",
+        "dutch": "Hij heeft een nieuwe fiets.",
+        "explanation": "'Haben' voor 'er/sie/es' is 'hat'. Let op de onregelmatige vorm."
+      },
+      {
+        "german": "Du wirst Arzt.",
+        "dutch": "Jij wordt dokter.",
+        "explanation": "'Werden' voor 'du' is 'wirst'. Deze vorm wijkt sterk af van het infinitief."
+      },
+      {
+        "german": "Wir sind Schüler.",
+        "dutch": "Wij zijn leerlingen.",
+        "explanation": "'Sein' voor 'wir' is 'sind'. Net als 'sie/Sie' krijgt ook 'wir' de vorm 'sind'."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "Welke vervoeging van 'sein' hoort bij 'du'?",
+        "options": ["bin", "bist", "ist", "sind"],
+        "correctAnswer": "bist",
+        "explanation": "De juiste vervoeging van 'sein' voor 'du' is 'bist'."
+      },
+      {
+        "question": "Welke vervoeging van 'haben' hoort bij 'er/sie/es'?",
+        "options": ["habe", "habt", "haben", "hat"],
+        "correctAnswer": "hat",
+        "explanation": "De juiste vervoeging van 'haben' voor 'er/sie/es' is 'hat'."
+      },
+      {
+        "question": "Vul in: 'Ihr ___ morgen frei.' (werden)",
+        "options": ["werden", "wirst", "wird", "werdet"],
+        "correctAnswer": "werdet",
+        "explanation": "De juiste vervoeging van 'werden' voor 'ihr' is 'werdet'."
+      }
+    ]
+  },
+  {
+    "id": "modal-verbs",
+    "title": "Modale werkwoorden (Modalverben)",
+    "description": "Modale werkwoorden geven aan hoe iemand tegenover een handeling staat: of iets kan, moet, mag of gewild wordt. De zes modale werkwoorden zijn: 'können' (kunnen), 'müssen' (moeten), 'wollen' (willen), 'dürfen' (mogen), 'sollen' (moeten/zouden) en 'mögen' (lekker vinden/graag willen). Een belangrijk kenmerk is dat het modale werkwoord het vervoegte werkwoord is en op de tweede positie staat, terwijl het hoofdwerkwoord als infinitief naar het einde van de zin gaat. Bijv.: 'Ich kann Deutsch sprechen.' Let ook op dat 'ich' en 'er/sie/es' bij modale werkwoorden dezelfde vorm hebben.",
+    "difficulty": "intermediate",
+    "tables": [
+      {
+        "title": "Vervoegingen van de modale werkwoorden",
+        "headers": ["", "können (kunnen)", "müssen (moeten)", "wollen (willen)", "dürfen (mogen)", "sollen (moeten/zouden)", "mögen (lekker vinden)"],
+        "rows": [
+          ["ich", "kann", "muss", "will", "darf", "soll", "mag"],
+          ["du", "kannst", "musst", "willst", "darfst", "sollst", "magst"],
+          ["er/sie/es", "kann", "muss", "will", "darf", "soll", "mag"],
+          ["wir", "können", "müssen", "wollen", "dürfen", "sollen", "mögen"],
+          ["ihr", "könnt", "müsst", "wollt", "dürft", "sollt", "mögt"],
+          ["sie/Sie", "können", "müssen", "wollen", "dürfen", "sollen", "mögen"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "german": "Ich kann gut schwimmen.",
+        "dutch": "Ik kan goed zwemmen.",
+        "explanation": "'Können' staat op de tweede positie als vervoeging; het infinitief 'schwimmen' gaat naar het einde."
+      },
+      {
+        "german": "Du musst jetzt schlafen.",
+        "dutch": "Jij moet nu slapen.",
+        "explanation": "'Müssen' staat op de tweede positie; het infinitief 'schlafen' gaat naar het einde van de zin."
+      },
+      {
+        "german": "Wir wollen nach Berlin fahren.",
+        "dutch": "Wij willen naar Berlijn gaan.",
+        "explanation": "'Wollen' staat op de tweede positie; het infinitief 'fahren' gaat naar het einde van de zin."
+      },
+      {
+        "german": "Er darf hier nicht rauchen.",
+        "dutch": "Hij mag hier niet roken.",
+        "explanation": "'Dürfen' staat op de tweede positie; het infinitief 'rauchen' gaat naar het einde, ook met een ontkenning ertussen."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "Welke zin is grammaticaal correct?",
+        "options": [
+          "Ich kann sprechen Deutsch.",
+          "Ich Deutsch kann sprechen.",
+          "Ich kann Deutsch sprechen.",
+          "Ich kann Deutsch spricht."
+        ],
+        "correctAnswer": "Ich kann Deutsch sprechen.",
+        "explanation": "Het modale werkwoord staat op de tweede positie en het hoofdwerkwoord staat als infinitief aan het einde van de zin."
+      },
+      {
+        "question": "Welke vervoeging van 'müssen' hoort bij 'du'?",
+        "options": ["muss", "müssen", "musst", "müsst"],
+        "correctAnswer": "musst",
+        "explanation": "De juiste vervoeging van 'müssen' voor 'du' is 'musst'."
+      },
+      {
+        "question": "Vul in: 'Ihr ___ leise sein.' (sollen)",
+        "options": ["sollen", "sollst", "soll", "sollt"],
+        "correctAnswer": "sollt",
+        "explanation": "De juiste vervoeging van 'sollen' voor 'ihr' is 'sollt'."
+      }
+    ]
+  },
+  {
+    "id": "separable-verbs",
+    "title": "Scheidbare werkwoorden (Trennbare Verben)",
+    "description": "Scheidbare werkwoorden bestaan uit een basiswerkwoord en een scheidbaar voorvoegsel (prefix). In een gewone hoofdzin wordt het voorvoegsel losgekoppeld van het werkwoord en naar het absolute einde van de zin geplaatst. Het vervoegte basiswerkwoord staat zelf op de tweede positie. Veelgebruikte scheidbare voorvoegsels zijn: auf- (op), an- (aan), ab- (af/weg), mit- (mee), ein- (in) en aus- (uit/weg). Let op: in de infinitief en in bijzinnen blijft het werkwoord één geheel (bijv. 'Ich versuche früh einzuschlafen.').",
+    "difficulty": "intermediate",
+    "tables": [
+      {
+        "title": "Veelgebruikte scheidbare voorvoegsels",
+        "headers": ["Voorvoegsel", "Betekenis", "Voorbeeld", "Zin"],
+        "rows": [
+          ["auf-", "op", "aufmachen (openmaken)", "Ich mache die Tür auf."],
+          ["an-", "aan", "anrufen (bellen)", "Er ruft seine Mutter an."],
+          ["ab-", "af", "abfahren (vertrekken)", "Der Zug fährt um 8 Uhr ab."],
+          ["mit-", "mee", "mitkommen (meekomen)", "Kommst du mit?"],
+          ["ein-", "in", "einschlafen (in slaap vallen)", "Das Kind schläft ein."],
+          ["aus-", "uit", "ausgehen (uitgaan)", "Wir gehen heute Abend aus."]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "german": "Ich mache das Fenster auf.",
+        "dutch": "Ik doe het raam open.",
+        "explanation": "'Aufmachen' is scheidbaar: het basiswerkwoord 'mache' staat op positie 2, het voorvoegsel 'auf' gaat naar het einde."
+      },
+      {
+        "german": "Sie ruft ihren Freund an.",
+        "dutch": "Zij belt haar vriend.",
+        "explanation": "'Anrufen' is scheidbaar: 'ruft' staat op positie 2, het voorvoegsel 'an' gaat naar het einde."
+      },
+      {
+        "german": "Der Bus fährt um 9 Uhr ab.",
+        "dutch": "De bus vertrekt om 9 uur.",
+        "explanation": "'Abfahren' is scheidbaar: 'fährt' staat op positie 2, het voorvoegsel 'ab' gaat naar het einde."
+      },
+      {
+        "german": "Wir gehen am Wochenende aus.",
+        "dutch": "Wij gaan in het weekend uit.",
+        "explanation": "'Ausgehen' is scheidbaar: 'gehen' staat op positie 2, het voorvoegsel 'aus' gaat naar het einde."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "Welke zin is grammaticaal correct voor 'anrufen' met 'ich'?",
+        "options": [
+          "Ich anrufe meine Mutter.",
+          "Ich rufe meine Mutter an.",
+          "Ich rufe an meine Mutter.",
+          "Ich anruf meine Mutter."
+        ],
+        "correctAnswer": "Ich rufe meine Mutter an.",
+        "explanation": "Bij scheidbare werkwoorden staat het basiswerkwoord 'rufe' op positie 2 en gaat het voorvoegsel 'an' naar het absolute einde van de hoofdzin."
+      },
+      {
+        "question": "Waar staat het voorvoegsel van een scheidbaar werkwoord in een hoofdzin?",
+        "options": [
+          "Aan het begin van de zin",
+          "Direct voor het werkwoord",
+          "Aan het einde van de zin",
+          "Direct na het onderwerp"
+        ],
+        "correctAnswer": "Aan het einde van de zin",
+        "explanation": "In een hoofdzin wordt het voorvoegsel van een scheidbaar werkwoord naar het absolute einde van de zin verplaatst."
+      },
+      {
+        "question": "Welke zin klopt voor 'einschlafen' met 'das Kind'?",
+        "options": [
+          "Das Kind einschläft.",
+          "Das Kind schläft ein.",
+          "Das Kind ein schläft.",
+          "Das Kind schläft einige."
+        ],
+        "correctAnswer": "Das Kind schläft ein.",
+        "explanation": "'Einschlafen' is scheidbaar: het basiswerkwoord 'schläft' staat op positie 2 en het voorvoegsel 'ein' gaat naar het einde van de zin."
+      }
+    ]
+  },
+  {
+    "id": "word-order",
+    "title": "De woordvolgorde (Wortstellung)",
+    "description": "In het Duits geldt de V2-regel: het vervoegte werkwoord staat altijd op de tweede positie in een hoofdzin, ongeacht welk zinsdeel er vooraan staat. Als je een bijwoord of een andere zinsdeel vooraan plaatst (inversie), verhuist het onderwerp naar ná het werkwoord. In bijzinnen, ingeleid door voegwoorden zoals 'weil' (omdat), 'dass' (dat), 'wenn' (als/wanneer) en 'obwohl' (hoewel), gaat het vervoegte werkwoord naar het einde van de zin. Dit is een belangrijk verschil met de Nederlandse woordvolgorde.",
+    "difficulty": "intermediate",
+    "examples": [
+      {
+        "german": "Ich gehe morgen ins Kino.",
+        "dutch": "Ik ga morgen naar de bioscoop.",
+        "explanation": "Normale volgorde: onderwerp 'Ich' op positie 1, werkwoord 'gehe' op positie 2."
+      },
+      {
+        "german": "Morgen gehe ich ins Kino.",
+        "dutch": "Morgen ga ik naar de bioscoop.",
+        "explanation": "Inversie: 'Morgen' staat vooraan op positie 1, dus werkwoord 'gehe' blijft op positie 2 en het onderwerp 'ich' volgt daarna."
+      },
+      {
+        "german": "Heute Abend spielen wir Fußball.",
+        "dutch": "Vanavond spelen wij voetbal.",
+        "explanation": "Inversie: 'Heute Abend' staat op positie 1, werkwoord 'spielen' op positie 2, onderwerp 'wir' komt daarna."
+      },
+      {
+        "german": "Ich bleibe zu Hause, weil ich krank bin.",
+        "dutch": "Ik blijf thuis, omdat ik ziek ben.",
+        "explanation": "In de bijzin met 'weil' gaat het werkwoord 'bin' naar het absolute einde van de bijzin."
+      },
+      {
+        "german": "Er sagt, dass er Deutsch lernt.",
+        "dutch": "Hij zegt dat hij Duits leert.",
+        "explanation": "In de bijzin met 'dass' gaat het werkwoord 'lernt' naar het einde van de bijzin."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "Welke zin is correct volgens de V2-regel? (begin met 'Morgen')",
+        "options": [
+          "Morgen ich gehe ins Kino.",
+          "Morgen gehe ich ins Kino.",
+          "Morgen ins Kino gehe ich.",
+          "Morgen ich ins Kino gehe."
+        ],
+        "correctAnswer": "Morgen gehe ich ins Kino.",
+        "explanation": "Door de V2-regel staat het werkwoord altijd op positie 2. 'Morgen' is positie 1, dus 'gehe' staat op positie 2, gevolgd door het onderwerp 'ich'."
+      },
+      {
+        "question": "Welke woordvolgorde is correct in een bijzin met 'weil'?",
+        "options": [
+          "...weil ich bin müde.",
+          "...weil bin ich müde.",
+          "...weil ich müde bin.",
+          "...weil müde ich bin."
+        ],
+        "correctAnswer": "...weil ich müde bin.",
+        "explanation": "In een bijzin met 'weil' gaat het vervoegte werkwoord naar het einde: weil ich müde bin."
+      },
+      {
+        "question": "Zet de woorden in de juiste volgorde: 'spielt / heute / er / Tennis'",
+        "options": [
+          "Er heute spielt Tennis.",
+          "Heute er spielt Tennis.",
+          "Er spielt heute Tennis.",
+          "Tennis heute spielt er."
+        ],
+        "correctAnswer": "Er spielt heute Tennis.",
+        "explanation": "De normale volgorde is: onderwerp (Er) op positie 1, werkwoord (spielt) op positie 2, daarna de rest van de zin."
+      }
+    ]
+  },
+  {
+    "id": "cases",
+    "title": "Naamvallen: Nominatief en Accusatief (Nominativ und Akkusativ)",
+    "description": "In het Duits bestaan er naamvallen die de grammaticale rol van een zelfstandig naamwoord in de zin aangeven. De nominatief is de naamval van het onderwerp: het zinsdeel dat de handeling uitvoert (Wie of wat doet iets?). De accusatief is de naamval van het lijdend voorwerp: het zinsdeel dat de handeling ondergaat (Wie of wat wordt er iets aangedaan?). Bij mannelijke zelfstandige naamwoorden verandert het bepaald lidwoord van 'der' naar 'den' en het onbepaald lidwoord van 'ein' naar 'einen' in de accusatief. Bij vrouwelijke, onzijdige en meervoudswoorden blijven de lidwoorden hetzelfde.",
+    "difficulty": "intermediate",
+    "tables": [
+      {
+        "title": "Lidwoorden in de nominatief en accusatief",
+        "headers": ["Geslacht", "Nominatief (bepaald)", "Accusatief (bepaald)", "Nominatief (onbepaald)", "Accusatief (onbepaald)"],
+        "rows": [
+          ["Mannelijk", "der", "den", "ein", "einen"],
+          ["Vrouwelijk", "die", "die", "eine", "eine"],
+          ["Onzijdig", "das", "das", "ein", "ein"],
+          ["Meervoud", "die", "die", "-", "-"]
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "german": "Der Mann kauft einen Hund.",
+        "dutch": "De man koopt een hond.",
+        "explanation": "'Der Mann' is het onderwerp (nominatief). 'Einen Hund' is het lijdend voorwerp (accusatief): 'Hund' is mannelijk, dus ein → einen."
+      },
+      {
+        "german": "Das Kind sieht die Katze.",
+        "dutch": "Het kind ziet de kat.",
+        "explanation": "'Das Kind' is het onderwerp (nominatief). 'Die Katze' is het lijdend voorwerp (accusatief): vrouwelijk, dus 'die' blijft 'die'."
+      },
+      {
+        "german": "Sie liest das Buch.",
+        "dutch": "Zij leest het boek.",
+        "explanation": "'Sie' is het onderwerp (nominatief). 'Das Buch' is het lijdend voorwerp (accusatief): onzijdig, dus 'das' blijft 'das'."
+      },
+      {
+        "german": "Ich sehe den Mann.",
+        "dutch": "Ik zie de man.",
+        "explanation": "'Ich' is het onderwerp (nominatief). 'Den Mann' is het lijdend voorwerp (accusatief): mannelijk bepaald lidwoord verandert van 'der' naar 'den'."
+      }
+    ],
+    "exercises": [
+      {
+        "question": "Welk bepaald lidwoord hoort bij een mannelijk lijdend voorwerp (accusatief)?",
+        "options": ["der", "die", "den", "dem"],
+        "correctAnswer": "den",
+        "explanation": "In de accusatief verandert het bepaald lidwoord bij mannelijke woorden van 'der' naar 'den'. Dit is de enige verandering in de accusatief."
+      },
+      {
+        "question": "Welke zin is correct? ('een man' als lijdend voorwerp)",
+        "options": [
+          "Ich sehe ein Mann.",
+          "Ich sehe einer Mann.",
+          "Ich sehe einen Mann.",
+          "Ich sehe der Mann."
+        ],
+        "correctAnswer": "Ich sehe einen Mann.",
+        "explanation": "'Mann' is mannelijk. In de accusatief wordt het onbepaald lidwoord 'ein' voor mannelijke woorden 'einen'."
+      },
+      {
+        "question": "In welke naamval staat het onderwerp van een zin?",
+        "options": ["Accusatief", "Datief", "Nominatief", "Genitief"],
+        "correctAnswer": "Nominatief",
+        "explanation": "Het onderwerp van een zin staat altijd in de nominatief. De nominatief geeft aan wie of wat de handeling uitvoert."
+      }
+    ]
+  }
+]

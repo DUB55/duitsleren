@@ -1,0 +1,348 @@
+# Grammatica-overzicht Duits
+
+## 1. **haben, sein, werden in de tegenwoordige tijd (Präsens)**
+
+### **haben = hebben**
+
+| Persoon   | Vervoeging |
+| --------- | ---------- |
+| ich       | habe       |
+| du        | hast       |
+| er/sie/es | hat        |
+| wir       | haben      |
+| ihr       | habt       |
+| sie/Sie   | haben      |
+
+**Voorbeelden:**
+
+* Ich **habe** einen Hund.
+* Wir **haben** Zeit.
+
+---
+
+### **sein = zijn**
+
+| Persoon   | Vervoeging |
+| --------- | ---------- |
+| ich       | bin        |
+| du        | bist       |
+| er/sie/es | ist        |
+| wir       | sind       |
+| ihr       | seid       |
+| sie/Sie   | sind       |
+
+**Voorbeelden:**
+
+* Ich **bin** müde.
+* Er **ist** krank.
+
+---
+
+### **werden = worden / zullen**
+
+| Persoon   | Vervoeging |
+| --------- | ---------- |
+| ich       | werde      |
+| du        | wirst      |
+| er/sie/es | wird       |
+| wir       | werden     |
+| ihr       | werdet     |
+| sie/Sie   | werden     |
+
+**Voorbeelden:**
+
+* Ich **werde** Lehrer.
+* Er **wird** Arzt.
+
+---
+
+# 2. **Regelmatige werkwoorden (FE-esttenten-regel)**
+
+### Uitgang werkwoord afhalen (**-en**) → stam overhouden
+
+Bijvoorbeeld **machen → mach**
+
+| Persoon   | Uitgang | Beispiel   |
+| --------- | ------- | ---------- |
+| ich       | -e      | ich mache  |
+| du        | -st     | du machst  |
+| er/sie/es | -t      | er macht   |
+| wir       | -en     | wir machen |
+| ihr       | -t      | ihr macht  |
+| sie/Sie   | -en     | sie machen |
+
+**FE-esttenten-regel:**
+
+**FE – esttenten**
+
+* **F** = **-e** → ich
+* **E** = **-st** → du
+* **-t** → er/sie/es
+* **-en** → wir
+* **-t** → ihr
+* **-en** → sie/Sie
+
+### Meer voorbeelden:
+
+**lernen**
+
+* ich lerne
+* du lernst
+* er lernt
+* wir lernen
+* ihr lernt
+* sie lernen
+
+**spielen**
+
+* ich spiele
+* du spielst
+* er spielt
+* wir spielen
+* ihr spielt
+* sie spielen
+
+---
+
+# 3. **Vaste voorzetsels: 3e en 4e naamval**
+
+## Voorzetsels met ALTIJD **3e naamval (Dativ)**
+
+**Aus – bei – mit – nach – seit – von – zu**
+
+Ezelsbrug: **ABMNSVZ**
+
+| Voorzetsel | Betekenis |
+| ---------- | --------- |
+| aus        | uit       |
+| bei        | bij       |
+| mit        | met       |
+| nach       | naar / na |
+| seit       | sinds     |
+| von        | van       |
+| zu         | naar      |
+
+**Voorbeelden:**
+
+* Ich fahre **mit dem Fahrrad**.
+* Er kommt **aus dem Haus**.
+* Seit **einem Jahr**.
+
+---
+
+## Voorzetsels met ALTIJD **4e naamval (Akkusativ)**
+
+**Durch – für – gegen – ohne – um**
+
+Ezelsbrug: **DFGOU**
+
+| Voorzetsel | Betekenis |
+| ---------- | --------- |
+| durch      | door      |
+| für        | voor      |
+| gegen      | tegen     |
+| ohne       | zonder    |
+| um         | om        |
+
+**Voorbeelden:**
+
+* Das Geschenk ist **für den Lehrer**.
+* Ich gehe **durch den Park**.
+* Er kommt **ohne seine Tasche**.
+
+---
+
+# 4. **Zinsontleden: 3e en 4e naamval**
+
+## Stap 1: Zoek persoonsvorm (PV)
+
+Voorbeeld:
+
+**Der Mann gibt dem Kind den Ball.**
+
+PV = **gibt**
+
+---
+
+## Stap 2: Zoek onderwerp (OW)
+
+Vraag: **Wie + werkwoord?**
+
+Wie gibt? → **Der Mann**
+
+= **onderwerp → 1e naamval (Nominativ)**
+
+---
+
+## Stap 3: Zoek meewerkend voorwerp (MV)
+
+Vraag: **Aan wie / voor wie?**
+
+Aan wie geeft hij? → **dem Kind**
+
+= **3e naamval (Dativ)**
+
+---
+
+## Stap 4: Zoek lijdend voorwerp (LV)
+
+Vraag: **Wie of wat + werkwoord + onderwerp?**
+
+Wat geeft de man? → **den Ball**
+
+= **4e naamval (Akkusativ)**
+
+---
+
+### Schema
+
+| Functie             | Vraag               | Naamval |
+| ------------------- | ------------------- | ------- |
+| Onderwerp           | Wie + werkwoord?    | 1e      |
+| Meewerkend voorwerp | Aan wie / voor wie? | 3e      |
+| Lijdend voorwerp    | Wie/wat + ww + ow?  | 4e      |
+
+---
+
+### Voorbeeldzinnen
+
+**Ich gebe dem Lehrer das Buch.**
+
+* Ich = onderwerp (1e)
+* dem Lehrer = MV → 3e
+* das Buch = LV → 4e
+
+---
+
+**Sie schenkt ihrer Mutter Blumen.**
+
+* Sie = onderwerp
+* ihrer Mutter = 3e naamval
+* Blumen = 4e naamval
+
+---
+
+# 5. **Persoonlijke voornaamwoorden in de 3e en 4e naamval**
+
+## 3e naamval (Dativ)
+
+| Nominativ | Dativ |
+| --------- | ----- |
+| ich       | mir   |
+| du        | dir   |
+| er        | ihm   |
+| sie       | ihr   |
+| es        | ihm   |
+| wir       | uns   |
+| ihr       | euch  |
+| sie       | ihnen |
+| Sie       | Ihnen |
+
+**Voorbeelden:**
+
+* Er hilft **mir**.
+* Ich gebe **dir** das Buch.
+
+---
+
+## 4e naamval (Akkusativ)
+
+| Nominativ | Akkusativ |
+| --------- | --------- |
+| ich       | mich      |
+| du        | dich      |
+| er        | ihn       |
+| sie       | sie       |
+| es        | es        |
+| wir       | uns       |
+| ihr       | euch      |
+| sie       | sie       |
+| Sie       | Sie       |
+
+**Voorbeelden:**
+
+* Er sieht **mich**.
+* Ich höre **dich**.
+
+---
+
+# 6. **Bezittelijke voornaamwoorden in 3e en 4e naamval**
+
+## Stamwoorden
+
+| Persoon | Stam  |
+| ------- | ----- |
+| ich     | mein  |
+| du      | dein  |
+| er      | sein  |
+| sie     | ihr   |
+| es      | sein  |
+| wir     | unser |
+| ihr     | euer  |
+| sie     | ihr   |
+| Sie     | Ihr   |
+
+---
+
+## 4e naamval (Akkusativ)
+
+### Mannelijk verandert
+
+| Nominativ | Akkusativ   |
+| --------- | ----------- |
+| mein Hund | meinen Hund |
+| dein Hund | deinen Hund |
+| sein Hund | seinen Hund |
+
+**Regel:**
+Mannelijk krijgt **-en**
+
+---
+
+### Vrouwelijk en onzijdig
+
+| Nominativ    | Akkusativ    |
+| ------------ | ------------ |
+| meine Tasche | meine Tasche |
+| mein Buch    | mein Buch    |
+
+Geen verandering.
+
+---
+
+## 3e naamval (Dativ)
+
+Alle vormen krijgen meestal **-em** of **-er**
+
+| Geslacht   | Voorbeeld       |
+| ---------- | --------------- |
+| mannelijk  | meinem Vater    |
+| onzijdig   | meinem Kind     |
+| vrouwelijk | meiner Mutter   |
+| meervoud   | meinen Freunden |
+
+Voorbeelden:
+
+* Ich helfe **meinem Vater**.
+* Sie schreibt **ihrer Mutter**.
+* Wir helfen **unseren Freunden**.
+
+---
+
+# Kort overzicht (samenvatting)
+
+### Dativ (3e naamval)
+
+* MV → aan wie / voor wie?
+* ABMNSVZ
+* mir, dir, ihm…
+* meinem, deiner…
+
+---
+
+### Akkusativ (4e naamval)
+
+* LV → wie/wat?
+* DFGOU
+* mich, dich, ihn…
+* meinen, deinen…
