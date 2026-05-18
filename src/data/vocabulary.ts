@@ -6,15 +6,23 @@ import wordsData from "./words.json";
  *
  * All word content lives in words.json — edit that file to add, remove,
  * or change vocabulary. This file only provides typed exports and helper functions.
+ *
+ * ID conventions (set when the JSON was built):
+ *   n1–n54  →  NL-DE WOORDEN.txt  (Dutch shown, German answer)
+ *   d1–d40  →  DE-NL WOORDEN.txt  (German shown, Dutch answer)
  */
 
 export const vocabularyWords: Word[] = wordsData as Word[];
 
-// Both directions use the same word list.
-// The direction parameter in helper functions controls which field is the
-// "question" and which is the "answer" — that logic lives in the UI components.
-export const dutchToGermanWords: Word[] = vocabularyWords;
-export const germanToDutchWords: Word[] = vocabularyWords;
+// Words from NL-DE WOORDEN.txt — used when direction is dutch-to-german
+export const dutchToGermanWords: Word[] = vocabularyWords.filter((w) =>
+  w.id.startsWith("n"),
+);
+
+// Words from DE-NL WOORDEN.txt — used when direction is german-to-dutch
+export const germanToDutchWords: Word[] = vocabularyWords.filter((w) =>
+  w.id.startsWith("d"),
+);
 
 // ── Helper functions ──────────────────────────────────────────────────────────
 
@@ -30,20 +38,22 @@ export const getWordsByDifficulty = (
 
 export const getRandomWords = (
   count: number,
-  _direction: "dutch-to-german" | "german-to-dutch" = "dutch-to-german",
+  direction: "dutch-to-german" | "german-to-dutch" = "dutch-to-german",
 ): Word[] => {
-  const shuffled = [...vocabularyWords].sort(() => 0.5 - Math.random());
+  const wordList =
+    direction === "dutch-to-german" ? dutchToGermanWords : germanToDutchWords;
+  const shuffled = [...wordList].sort(() => 0.5 - Math.random());
   return shuffled.slice(0, count);
 };
 
 export const getRandomWordsExcept = (
   count: number,
   excludeIds: string[],
-  _direction: "dutch-to-german" | "german-to-dutch" = "dutch-to-german",
+  direction: "dutch-to-german" | "german-to-dutch" = "dutch-to-german",
 ): Word[] => {
-  const available = vocabularyWords.filter(
-    (word) => !excludeIds.includes(word.id),
-  );
+  const wordList =
+    direction === "dutch-to-german" ? dutchToGermanWords : germanToDutchWords;
+  const available = wordList.filter((word) => !excludeIds.includes(word.id));
   const shuffled = [...available].sort(() => 0.5 - Math.random());
   return shuffled.slice(0, count);
 };
